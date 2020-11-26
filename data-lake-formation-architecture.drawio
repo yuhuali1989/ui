@@ -1,4 +1,4 @@
-<mxfile modified="2020-11-26T06:27:12.113Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="2lAnsbZxP_ldnsonZhiF" version="13.8.8" type="github">
+<mxfile modified="2020-11-26T06:29:49.684Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="nwztvyfme0ElhCDwQ5zM" version="13.8.8" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1298" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -20,6 +20,12 @@
         </mxCell>
         <mxCell id="l3vL0S8qQFPJ-LsvamBz-5" value="冷热过度和归档存储" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="299" y="700" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l3vL0S8qQFPJ-LsvamBz-6" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eks;" vertex="1" parent="1">
+          <mxGeometry x="314" y="240" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="l3vL0S8qQFPJ-LsvamBz-7" value="容器服务EKS" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="308" y="320" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
