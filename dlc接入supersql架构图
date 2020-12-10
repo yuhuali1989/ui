@@ -1,4 +1,4 @@
-<mxfile modified="2020-12-10T07:22:08.796Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="1nn4dVV5nNPTAOuKxiDW" version="13.10.4" type="github">
+<mxfile modified="2020-12-10T07:26:27.863Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="c6Mgn065BCObgCNDNq4V" version="13.10.4" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1298" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -135,6 +135,9 @@
         </mxCell>
         <mxCell id="VgigRdKXa9ySGMYJv0nX-42" value="spark" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="650" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="VgigRdKXa9ySGMYJv0nX-45" value="注册livy 联邦查询引擎" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="500" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
