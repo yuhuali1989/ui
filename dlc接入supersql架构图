@@ -1,4 +1,4 @@
-<mxfile modified="2020-12-10T08:09:54.008Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Opt-v-lzIhoPg9Wb7x9f" version="13.10.4" type="github">
+<mxfile modified="2020-12-10T08:12:23.945Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="8gDp_q6n3JHCRRq_ZGzL" version="13.10.4" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1298" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -154,7 +154,7 @@
         <mxCell id="VgigRdKXa9ySGMYJv0nX-50" value="联邦查询&lt;br&gt;不支持，presto没有动态catalog" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="380" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VgigRdKXa9ySGMYJv0nX-53" value="工作简要评估&lt;br&gt;1、基于语法的路由功能：从资管接sql路由到supersql，支持大部分ddl走hive，部分数据操作ddl仍然走presto，如create table as select；（部分限制考虑放到资管，如只允许外表，block 数据删除ddl）&lt;br&gt;&lt;br&gt;2、presto sql 多租户动态资源隔离探索：&lt;br&gt;&lt;br&gt;3、联邦查询方案选型 spark？presto动态catalg？aws athena federated lambd方案" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VgigRdKXa9ySGMYJv0nX-53" value="&lt;br&gt;&lt;b&gt;supersql/presto 团队需求&lt;/b&gt;&lt;br&gt;&lt;br&gt;一、背景：核心需求supersql统一语法功能&lt;br&gt;&lt;br&gt;二、核心工作模块&lt;br&gt;&lt;br&gt;1、基于语法的路由功能：从资管接sql路由到supersql，支持大部分ddl走hive，部分数据操作ddl仍然走presto，如create table as select；（部分限制考虑放到资管，如只允许外表，block 数据删除ddl）&lt;br&gt;&lt;br&gt;2、presto sql 多租户动态资源隔离探索：&lt;br&gt;&lt;br&gt;3、联邦查询方案选型 spark？presto动态catalg？aws athena federated lambd方案&lt;br&gt;&lt;br&gt;4、hybris supersql打通" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="740" width="380" height="190" as="geometry" />
         </mxCell>
         <mxCell id="VgigRdKXa9ySGMYJv0nX-54" value="COS（对象存储）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
