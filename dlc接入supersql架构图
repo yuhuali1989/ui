@@ -1,4 +1,4 @@
-<mxfile modified="2020-12-10T07:41:52.833Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="8m68tp-TSOCcyA8EMe-4" version="13.10.4" type="github">
+<mxfile modified="2020-12-10T07:43:51.686Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="7044hrMY8fwK6jUBuAKX" version="13.10.4" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1298" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -151,8 +151,8 @@
         <mxCell id="VgigRdKXa9ySGMYJv0nX-48" value="jdbc sql" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="390" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VgigRdKXa9ySGMYJv0nX-50" value="联邦查询" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="370" width="40" height="20" as="geometry" />
+        <mxCell id="VgigRdKXa9ySGMYJv0nX-50" value="联邦查询&lt;br&gt;不支持，presto没有动态catalog" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="380" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
