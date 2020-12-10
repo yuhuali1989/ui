@@ -1,4 +1,4 @@
-<mxfile modified="2020-12-10T06:42:47.519Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="FDkjl_-s76UPi7sR_LTS" version="13.10.4" type="github">
+<mxfile modified="2020-12-10T06:42:57.324Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="dBkyTT61dg6vudJUpkLu" version="13.10.4" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1298" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="VgigRdKXa9ySGMYJv0nX-8" value="资管服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240.00000000000003" y="150" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VgigRdKXa9ySGMYJv0nX-9" value="presto集群1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VgigRdKXa9ySGMYJv0nX-9" value="presto集群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="260" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VgigRdKXa9ySGMYJv0nX-12" value="创建eks集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
