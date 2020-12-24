@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-24T06:27:24.866Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="hS9JAkYrgRhC5r1SoE95" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-24T06:34:11.490Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="W1M9lD6PyF3Dm1KRpq5T" version="14.1.1" type="github">
   <diagram id="Pq1vV9T5j0Wbz4fplcox" name="Page-1">
     <mxGraphModel dx="1082" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,7 +89,7 @@
           <mxGeometry x="130" y="60" width="570" height="80" as="geometry" />
         </mxCell>
         <mxCell id="16xAAln6XfL_T0vWqV8P-28" value="A、实现presto spi接口，lambda作为一个connector&lt;br&gt;https://prestosql.io/docs/current/develop/spi-overview.html&lt;br&gt;&lt;br&gt;B、实现方式可能难点 &lt;br&gt;&lt;ul&gt;&lt;li&gt;lamdba:function_name.database.table 及别名方案实现&lt;/li&gt;&lt;li&gt;lamdba存储不足 溢写方案&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt;C、方案好处&lt;br&gt;&lt;ul&gt;&lt;li&gt;动态presto catalog会调用athena datasource管理，都走lambda connector。&lt;/li&gt;&lt;li&gt;网络方案打通方便，走lambda本身的网络方案&lt;/li&gt;&lt;li&gt;云原生方案，本身presto常驻&lt;/li&gt;&lt;li&gt;做生态，让各种数据源都有机会自己扩展，本身presto升级考虑版本微调有风险，因此数据源代码不在presto维护松耦合。&lt;/li&gt;&lt;li&gt;用户自定义udf也走了lambda的方式，用户代码不在presto集群run，安全有保障。&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;D、方案缺陷&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;社区connector用的不多，各个connect都有不少开发量&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="770" y="90" width="500" height="340" as="geometry" />
+          <mxGeometry x="790" y="260" width="500" height="410" as="geometry" />
         </mxCell>
         <mxCell id="eP7MO90qjiCF3FKRGbK0-1" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="730" width="110" height="40" as="geometry" />
@@ -297,6 +297,9 @@
             <mxPoint x="805.0000000000002" y="1840" as="sourcePoint" />
             <mxPoint x="805.0000000000002" y="770" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eP7MO90qjiCF3FKRGbK0-54" value="1、athena控制平面校验table和schema信息&lt;br&gt;2、coordinator get schema，typing，table layout information，及partition pruning&lt;br&gt;3、coordinator get split 决定并发度&lt;br&gt;4、worker读数据" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="89" y="610" width="591" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
