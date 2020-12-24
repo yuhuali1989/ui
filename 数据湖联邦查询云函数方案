@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-24T03:55:36.280Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Z5bZwKJCAFAqabBQSHA3" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-24T04:00:51.295Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="SXNR7nA-_4RbC9W-8-46" version="14.1.1" type="github">
   <diagram id="Pq1vV9T5j0Wbz4fplcox" name="Page-1">
     <mxGraphModel dx="1082" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -90,6 +90,9 @@
         </mxCell>
         <mxCell id="16xAAln6XfL_T0vWqV8P-28" value="A、实现presto spi接口，lambda作为一个connector&lt;br&gt;https://prestosql.io/docs/current/develop/spi-overview.html&lt;br&gt;&lt;br&gt;B、实现方式可能难点 &lt;br&gt;&lt;ul&gt;&lt;li&gt;lamdba:function_name.database.table 及别名方案实现&lt;/li&gt;&lt;li&gt;lamdba存储不足 溢写方案&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt;C、方案好处&lt;br&gt;&lt;ul&gt;&lt;li&gt;动态presto catalog会调用athena datasource管理，都走lambda connector。&lt;/li&gt;&lt;li&gt;网络方案打通方便，走lambda本身的网络方案&lt;/li&gt;&lt;li&gt;云原生方案，本身presto常驻&lt;/li&gt;&lt;li&gt;做生态，让各种数据源都有机会自己扩展，本身presto升级考虑版本微调有风险，因此数据源代码不在presto维护松耦合。&lt;/li&gt;&lt;li&gt;用户自定义udf也走了lambda的方式，用户代码不在presto集群run，安全有保障。&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;D、方案缺陷&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;社区connector用的不多，各个connect都有不少开发量&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="770" y="250" width="500" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="eP7MO90qjiCF3FKRGbK0-1" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="730" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
