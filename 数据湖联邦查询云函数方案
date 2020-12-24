@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-24T04:10:34.907Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="IhNB250Fd7SJb2HRGHfD" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-24T06:13:37.688Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="EejFFmwzg0RFmYsUKyAv" version="14.1.1" type="github">
   <diagram id="Pq1vV9T5j0Wbz4fplcox" name="Page-1">
     <mxGraphModel dx="1082" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -216,6 +216,9 @@
         </mxCell>
         <mxCell id="eP7MO90qjiCF3FKRGbK0-33" value="ArrowBlock[Partition1,Partition2]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="609.5" y="1150" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eP7MO90qjiCF3FKRGbK0-34" value="Presto doesn&#39;t understand partitions" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=13;" vertex="1" parent="1">
+          <mxGeometry x="360.25" y="1200" width="257.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
