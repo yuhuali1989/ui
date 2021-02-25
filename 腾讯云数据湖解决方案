@@ -1,4 +1,4 @@
-<mxfile modified="2021-02-25T07:35:46.109Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="G6Z-RpZJuECGkGMaxEv4" version="14.1.9" type="github">
+<mxfile modified="2021-02-25T07:38:10.657Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="2_Gqb7T81wGQD6P9qNce" version="14.1.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1298" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,11 +109,11 @@
         <mxCell id="u3cOkEATMkVpytSAaLMc-42" value="&lt;font style=&quot;font-size: 16px&quot; color=&quot;#006eff&quot;&gt;商业智能&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="u3cOkEATMkVpytSAaLMc-66">
           <mxGeometry y="40" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="u3cOkEATMkVpytSAaLMc-72" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;dashed=1;fontSize=16;fontColor=#006eff;align=left;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNDhweCIgaGVpZ2h0PSI0OHB4IiB2aWV3Qm94PSIwIDAgNDggNDgiIHZlcnNpb249IjEuMSI+JiN4YTsgICAgPHRpdGxlPuiFvuiur+aZuuiDvemSm+acuuWZqOWtpuS5oCBUSS1NTC00OHB4PC90aXRsZT4mI3hhOyAgICA8ZyBpZD0i6IW+6K6v5pm66IO96ZKb5py65Zmo5a2m5LmgLVRJLU1MLTQ4cHgiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPiYjeGE7ICAgICAgICA8ZyBpZD0i57yW57uEIj4mI3hhOyAgICAgICAgICAgIDxwYXRoIGQ9Ik02LDE2IEw2LDQwIEw0MC4yLDQwIEM0MC42LDM4LjggNDEuNywzOCA0MywzOCBDNDQuNywzOCA0NiwzOS4zIDQ2LDQxIEM0Niw0Mi43IDQ0LjcsNDQgNDMsNDQgQzQxLjcsNDQgNDAuNiw0My4yIDQwLjIsNDIgTDQwLjIsNDIgTDQsNDIgTDQsMTYgTDYsMTYgWiBNNSw0IEM2LjMsNCA3LjQsNC44IDcuOCw2IEw3LjgsNiBMNDQsNiBMNDQsMzIgTDQyLDMyIEw0Miw4IEw3LjgsOCBDNy40LDkuMiA2LjMsMTAgNSwxMCBDMy4zLDEwIDIsOC43IDIsNyBDMiw1LjMgMy4zLDQgNSw0IFogTTE2LDE4IEwxNiwyMCBMMTMsMjAgTDEzLDMwIEwxMSwzMCBMMTEsMjAgTDgsMjAgTDgsMTggTDE2LDE4IFogTTIwLDE4IEwyMCwzMCBMMTgsMzAgTDE4LDE4IEwyMCwxOCBaIE0zNywxOCBMMzcsMjggTDQwLDI4IEw0MCwzMCBMMzUsMzAgTDM1LDE4IEwzNywxOCBaIE0zMywxOCBMMzMsMzAgTDMxLDMwIEwzMSwyMiBMMjksMzAgTDI3LDMwIEwyNSwyMiBMMjUsMzAgTDIzLDMwIEwyMywxOCBMMjYsMTggTDI4LDI2IEwzMCwxOCBMMzMsMTggWiIgaWQ9IuW9oueKtue7k+WQiCIgZmlsbD0iIzAwQTRGRiIgZmlsbC1ydWxlPSJub256ZXJvIi8+JiN4YTsgICAgICAgICAgICA8cmVjdCBpZD0i55+p5b2iIiB4PSIwIiB5PSIwIiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiLz4mI3hhOyAgICAgICAgPC9nPiYjeGE7ICAgIDwvZz4mI3hhOzwvc3ZnPg==;" vertex="1" parent="u3cOkEATMkVpytSAaLMc-69">
-          <mxGeometry x="680" y="170" width="60" height="60" as="geometry" />
+        <mxCell id="u3cOkEATMkVpytSAaLMc-75" value="智能钛机器学习平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="u3cOkEATMkVpytSAaLMc-69">
+          <mxGeometry x="671" y="230" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="u3cOkEATMkVpytSAaLMc-75" value="流计算Oceanus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="u3cOkEATMkVpytSAaLMc-69">
-          <mxGeometry x="680" y="230" width="56" height="20" as="geometry" />
+        <mxCell id="u3cOkEATMkVpytSAaLMc-76" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://main.qcloudimg.com/raw/c480373e57f4e8eb84d6fffb1f4fb8fb.svg;" vertex="1" parent="u3cOkEATMkVpytSAaLMc-69">
+          <mxGeometry x="676" y="170" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u3cOkEATMkVpytSAaLMc-71" value="以对象存储为数据湖存储，以数据湖构建DLF为统一云数据纽带构建腾讯云上的数据湖解决方案" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;fontColor=#006eff;" vertex="1" parent="1">
           <mxGeometry x="167.5" y="140" width="340" height="20" as="geometry" />
