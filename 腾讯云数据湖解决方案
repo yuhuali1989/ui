@@ -1,4 +1,4 @@
-<mxfile modified="2021-02-25T06:17:54.345Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="wKSDh-_QNxes3rtR9Wnc" version="14.1.9" type="github">
+<mxfile modified="2021-02-25T06:18:39.854Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="lOgUN5O4HN_GIn4rr8tr" version="14.1.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1298" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,6 +36,12 @@
         </mxCell>
         <mxCell id="u3cOkEATMkVpytSAaLMc-11" value="弹性MapReduce" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="372" y="670" width="56" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u3cOkEATMkVpytSAaLMc-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgcache.qq.com/qcloud/tcloud_dtc/static/tc_console_product/a69240cb-fcbb-4567-8fbc-e6a542e1d21b.svg;" vertex="1" parent="1">
+          <mxGeometry x="496" y="610" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u3cOkEATMkVpytSAaLMc-13" value="Elastic Search" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="670" width="56" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
