@@ -1,4 +1,4 @@
-<mxfile modified="2021-02-25T09:04:14.460Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="r1HjuIG3eqhXReFainBL" version="14.1.9" type="github">
+<mxfile modified="2021-02-25T09:04:45.786Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="qh86TM-ydehPs5gCqSLy" version="14.1.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1082" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -237,6 +237,12 @@
         </mxCell>
         <mxCell id="u3cOkEATMkVpytSAaLMc-195" value="数据湖构建&lt;br&gt;DLF ETL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1565" y="310" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u3cOkEATMkVpytSAaLMc-196" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgcache.qq.com/qcloud/tcloud_dtc/static/tc_console_product/a1e3bc63-59bb-4592-a175-0ed491a7b9c3.svg;" vertex="1" parent="1">
+          <mxGeometry x="1730.9882608695652" y="299.24999999999994" width="48.78260869565217" height="48.78260869565217" as="geometry" />
+        </mxCell>
+        <mxCell id="u3cOkEATMkVpytSAaLMc-197" value="COS STAGED数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1730.99" y="360" width="56" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
