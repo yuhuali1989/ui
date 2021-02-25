@@ -1,4 +1,4 @@
-<mxfile modified="2021-02-25T07:20:43.404Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="Q3R0Htgwwt0CgEhRsIOh" version="14.1.9" type="github">
+<mxfile modified="2021-02-25T07:21:14.883Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="w1YIe1rX4FKmB91j2MFF" version="14.1.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1298" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,6 +120,9 @@
         </mxCell>
         <mxCell id="u3cOkEATMkVpytSAaLMc-64" value="Iceberg" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="u3cOkEATMkVpytSAaLMc-53">
           <mxGeometry x="462" y="40" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u3cOkEATMkVpytSAaLMc-65" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://iceberg.apache.org/img/Iceberg-logo.png;" vertex="1" parent="u3cOkEATMkVpytSAaLMc-53">
+          <mxGeometry x="443.40999999999997" y="14" width="117.18" height="32" as="geometry" />
         </mxCell>
         <mxCell id="u3cOkEATMkVpytSAaLMc-55" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="70" y="650" width="920" height="100" as="geometry" />
