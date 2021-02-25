@@ -1,4 +1,4 @@
-<mxfile modified="2021-02-25T08:02:52.383Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="_jhEuPKKfxm-JNq1v3dg" version="14.1.9" type="github">
+<mxfile modified="2021-02-25T08:03:46.091Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="XmGNDf6atoxmyIp2AO0d" version="14.1.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1298" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="160" y="180" width="750" height="10" as="geometry" />
         </mxCell>
         <mxCell id="u3cOkEATMkVpytSAaLMc-69" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="170" y="190" width="934" height="620" as="geometry" />
+          <mxGeometry x="170" y="190" width="950" height="620" as="geometry" />
         </mxCell>
         <mxCell id="u3cOkEATMkVpytSAaLMc-57" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="u3cOkEATMkVpytSAaLMc-69">
           <mxGeometry x="-8" y="160" width="748" height="100" as="geometry" />
@@ -99,6 +99,12 @@
         </mxCell>
         <mxCell id="u3cOkEATMkVpytSAaLMc-79" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://imgcache.qq.com/qcloud/tcloud_dtc/static/tcloud_products/33af969a-ecc2-4c67-85c9-051972fbac76.svg;" vertex="1" parent="u3cOkEATMkVpytSAaLMc-69">
           <mxGeometry x="366" y="180" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u3cOkEATMkVpytSAaLMc-80" value="腾讯云大数据解决方案" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="u3cOkEATMkVpytSAaLMc-69">
+          <mxGeometry x="-10" y="530" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u3cOkEATMkVpytSAaLMc-81" value="" style="line;strokeWidth=2;html=1;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="u3cOkEATMkVpytSAaLMc-69">
+          <mxGeometry x="-8" y="520" width="958" height="10" as="geometry" />
         </mxCell>
         <mxCell id="u3cOkEATMkVpytSAaLMc-71" value="&lt;font color=&quot;#000000&quot;&gt;以对象存储COS为数据湖存储，以容器服务为云原生资源调度，以数据湖构建DLF为统一云数据纽带，构建腾讯云上的 数仓建模、数据分析、机器学习的数据湖解决方案&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;fontColor=#006eff;" vertex="1" parent="1">
           <mxGeometry x="167.5" y="140" width="522.5" height="20" as="geometry" />
