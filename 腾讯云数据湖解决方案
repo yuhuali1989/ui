@@ -1,4 +1,4 @@
-<mxfile modified="2021-02-25T07:38:10.657Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="2_Gqb7T81wGQD6P9qNce" version="14.1.9" type="github">
+<mxfile modified="2021-02-25T07:42:31.440Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="_DXumwl2k9piKcDAyMw6" version="14.1.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1298" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
           <mxGeometry x="132" y="233" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="u3cOkEATMkVpytSAaLMc-35" value="数据湖构建DLF&lt;br&gt;入湖构建" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="u3cOkEATMkVpytSAaLMc-69">
-          <mxGeometry x="282" y="200" width="80" height="20" as="geometry" />
+          <mxGeometry x="250" y="200" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="u3cOkEATMkVpytSAaLMc-39" value="&lt;font style=&quot;font-size: 16px&quot; color=&quot;#006eff&quot;&gt;计算层&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="u3cOkEATMkVpytSAaLMc-69">
           <mxGeometry x="2" y="200" width="70" height="20" as="geometry" />
@@ -114,6 +114,12 @@
         </mxCell>
         <mxCell id="u3cOkEATMkVpytSAaLMc-76" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://main.qcloudimg.com/raw/c480373e57f4e8eb84d6fffb1f4fb8fb.svg;" vertex="1" parent="u3cOkEATMkVpytSAaLMc-69">
           <mxGeometry x="676" y="170" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u3cOkEATMkVpytSAaLMc-77" value="数据湖构建&lt;br&gt;DLF&lt;br&gt;Serverless-Spark" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="u3cOkEATMkVpytSAaLMc-69">
+          <mxGeometry x="342" y="200" width="98" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u3cOkEATMkVpytSAaLMc-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;fontColor=#006eff;" edge="1" parent="u3cOkEATMkVpytSAaLMc-69" source="u3cOkEATMkVpytSAaLMc-77" target="u3cOkEATMkVpytSAaLMc-77">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u3cOkEATMkVpytSAaLMc-71" value="以对象存储为数据湖存储，以数据湖构建DLF为统一云数据纽带构建腾讯云上的数据湖解决方案" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;fontColor=#006eff;" vertex="1" parent="1">
           <mxGeometry x="167.5" y="140" width="340" height="20" as="geometry" />
