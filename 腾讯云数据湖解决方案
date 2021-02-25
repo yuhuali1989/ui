@@ -1,4 +1,4 @@
-<mxfile modified="2021-02-25T08:43:21.497Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="D6oggS7BeVXG2_8TOhXf" version="14.1.9" type="github">
+<mxfile modified="2021-02-25T08:43:41.811Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="4WmpaCoPYUet5MAS2YT-" version="14.1.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1298" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -117,6 +117,12 @@
         </mxCell>
         <mxCell id="u3cOkEATMkVpytSAaLMc-92" value="数据源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;fontColor=#006eff;" vertex="1" parent="1">
           <mxGeometry x="1160" y="240" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u3cOkEATMkVpytSAaLMc-93" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#006eff;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="230" width="120" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="u3cOkEATMkVpytSAaLMc-94" value="数据入湖" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;fontColor=#006eff;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="240" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
