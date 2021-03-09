@@ -1,119 +1,122 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T07:32:06.920Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="1vHC2ClmVqJKR7JbXhh4" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-09T08:42:19.702Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="Uo90lUqe6RZJqFRjbdSR" version="14.1.9" type="github">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="2498" dy="1574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_vFjO7IXqCf8UIeRSADQ-90" value="treehole" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_vFjO7IXqCf8UIeRSADQ-90" value="treehole" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1090" y="-600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_vFjO7IXqCf8UIeRSADQ-91" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="_vFjO7IXqCf8UIeRSADQ-90">
+        <mxCell id="_vFjO7IXqCf8UIeRSADQ-91" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="_vFjO7IXqCf8UIeRSADQ-90" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1030" y="70" as="sourcePoint" />
             <mxPoint x="-600" y="-400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_vFjO7IXqCf8UIeRSADQ-92" value="dlf-us/eos-spark" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_vFjO7IXqCf8UIeRSADQ-92" value="dlf-us/eos-spark" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-900" y="-600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_vFjO7IXqCf8UIeRSADQ-93" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="_vFjO7IXqCf8UIeRSADQ-92">
+        <mxCell id="_vFjO7IXqCf8UIeRSADQ-93" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="_vFjO7IXqCf8UIeRSADQ-92" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-840.5" y="70" as="sourcePoint" />
             <mxPoint x="-840" y="-530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_vFjO7IXqCf8UIeRSADQ-94" value="spark-operator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_vFjO7IXqCf8UIeRSADQ-94" value="spark-operator" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-680" y="-600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_vFjO7IXqCf8UIeRSADQ-95" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="_vFjO7IXqCf8UIeRSADQ-94">
+        <mxCell id="_vFjO7IXqCf8UIeRSADQ-95" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="_vFjO7IXqCf8UIeRSADQ-94" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-620.5" y="70" as="sourcePoint" />
             <mxPoint x="-620" y="-530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_vFjO7IXqCf8UIeRSADQ-96" value="spark-driver pod" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_vFjO7IXqCf8UIeRSADQ-96" value="spark-driver pod" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-440" y="-600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_vFjO7IXqCf8UIeRSADQ-97" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="_vFjO7IXqCf8UIeRSADQ-96">
+        <mxCell id="_vFjO7IXqCf8UIeRSADQ-97" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="_vFjO7IXqCf8UIeRSADQ-96" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-380.5" y="70" as="sourcePoint" />
             <mxPoint x="-380" y="-530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_vFjO7IXqCf8UIeRSADQ-98" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="_vFjO7IXqCf8UIeRSADQ-98" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1030" y="-450" as="sourcePoint" />
             <mxPoint x="-840" y="-450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_vFjO7IXqCf8UIeRSADQ-99" value="创建任务和role arn" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_vFjO7IXqCf8UIeRSADQ-99" value="创建任务和role arn" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1000" y="-470" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_vFjO7IXqCf8UIeRSADQ-100" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="_vFjO7IXqCf8UIeRSADQ-100" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-840" y="-400" as="sourcePoint" />
             <mxPoint x="-620" y="-400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_vFjO7IXqCf8UIeRSADQ-101" value="创建Application 带role arn" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_vFjO7IXqCf8UIeRSADQ-101" value="创建Application 带role arn" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-810" y="-420" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_vFjO7IXqCf8UIeRSADQ-103" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="_vFjO7IXqCf8UIeRSADQ-103" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-620" y="-350" as="sourcePoint" />
             <mxPoint x="-370" y="-350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_vFjO7IXqCf8UIeRSADQ-104" value="创建Driver Pod&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_vFjO7IXqCf8UIeRSADQ-104" value="创建Driver Pod&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-610" y="-370" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_vFjO7IXqCf8UIeRSADQ-105" value="spark-executor pod" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_vFjO7IXqCf8UIeRSADQ-105" value="spark-executor pod" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-190" y="-600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_vFjO7IXqCf8UIeRSADQ-106" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="_vFjO7IXqCf8UIeRSADQ-105">
+        <mxCell id="_vFjO7IXqCf8UIeRSADQ-106" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="_vFjO7IXqCf8UIeRSADQ-105" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-130.5" y="70" as="sourcePoint" />
             <mxPoint x="-130" y="-530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_vFjO7IXqCf8UIeRSADQ-107" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="_vFjO7IXqCf8UIeRSADQ-107" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-380" y="-280" as="sourcePoint" />
             <mxPoint x="-130" y="-280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_vFjO7IXqCf8UIeRSADQ-108" value="创建executor Pod" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_vFjO7IXqCf8UIeRSADQ-108" value="创建executor Pod" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-370" y="-300" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_vFjO7IXqCf8UIeRSADQ-109" value="WebHook 拦截创建请求保持&amp;nbsp; role arn与Application相同" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_vFjO7IXqCf8UIeRSADQ-109" value="WebHook 拦截创建请求保持&amp;nbsp; role arn与Application相同 &lt;font color=&quot;#ff0000&quot;&gt;通过service accout保障&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-600" y="-340" width="190" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_vFjO7IXqCf8UIeRSADQ-110" value="WebHook 拦截创建请求保持&amp;nbsp; role arn与Application相同" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="-270" width="190" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="_vFjO7IXqCf8UIeRSADQ-111" value="类似kube2IAM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_vFjO7IXqCf8UIeRSADQ-111" value="类似kube2IAM" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="-600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_vFjO7IXqCf8UIeRSADQ-112" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="_vFjO7IXqCf8UIeRSADQ-111">
+        <mxCell id="_vFjO7IXqCf8UIeRSADQ-112" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="_vFjO7IXqCf8UIeRSADQ-111" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="69.5" y="70" as="sourcePoint" />
             <mxPoint x="70" y="-530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_vFjO7IXqCf8UIeRSADQ-113" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="_vFjO7IXqCf8UIeRSADQ-113" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="-400" as="sourcePoint" />
             <mxPoint x="-380" y="-400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_vFjO7IXqCf8UIeRSADQ-114" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="_vFjO7IXqCf8UIeRSADQ-114" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="-330" as="sourcePoint" />
             <mxPoint x="-130" y="-330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_vFjO7IXqCf8UIeRSADQ-115" value="watch role arn 定期注入idkey" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_vFjO7IXqCf8UIeRSADQ-115" value="watch role arn 定期注入idkey" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-240" y="-380" width="255" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dh-wydp3RmmeYJCGgYMQ-2" value="创建service accout与role arn有对应关系" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="-390" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dh-wydp3RmmeYJCGgYMQ-3" value="WebHook 拦截创建请求保持&amp;nbsp; role arn与Application相同 &lt;font color=&quot;#ff0000&quot;&gt;通过service accout保障&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="-260" width="190" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
