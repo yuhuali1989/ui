@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T07:28:04.955Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="uqpRzymM9zM0y9DZCQ1l" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-09T07:28:58.551Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="dtoPG1iBepmOHkOHKEg1" version="14.1.9" type="github">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="2498" dy="1574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -66,6 +66,24 @@
         </mxCell>
         <mxCell id="_vFjO7IXqCf8UIeRSADQ-104" value="创建Driver Pod /WebHook 带 role arn" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-610" y="-370" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_vFjO7IXqCf8UIeRSADQ-105" value="spark-executor pod" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="-600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_vFjO7IXqCf8UIeRSADQ-106" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="_vFjO7IXqCf8UIeRSADQ-105">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-130.5" y="70" as="sourcePoint" />
+            <mxPoint x="-130" y="-530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_vFjO7IXqCf8UIeRSADQ-107" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-380" y="-280" as="sourcePoint" />
+            <mxPoint x="-130" y="-280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_vFjO7IXqCf8UIeRSADQ-108" value="创建executor Pod /WebHook 带 role arn" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="-300" width="210" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
