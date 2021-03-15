@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-15T06:55:54.524Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="rCUfBuUxafLlR9wVNRp2" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-15T06:56:55.686Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="306Dtn07UWTu0wCgvjzG" version="14.1.9" type="github">
   <diagram id="SWHY_POWO5s-dIFylt3D" name="Page-1">
     <mxGraphModel dx="2125" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -191,6 +191,15 @@
         </mxCell>
         <mxCell id="l3Q5i7_FzfgvBJU2VW1e-45" value="调用hybris hms接口更新库表信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="830" y="860" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l3Q5i7_FzfgvBJU2VW1e-46" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="920" as="sourcePoint" />
+            <mxPoint x="710" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l3Q5i7_FzfgvBJU2VW1e-47" value="直接调用hybris接口crud" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="900" width="356" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
