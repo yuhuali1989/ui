@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-15T07:15:13.466Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="ombnNNndWHUDNsBc6q6J" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-15T07:16:04.167Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="r9arG5B4zNoMeZlHG2Gx" version="14.1.9" type="github">
   <diagram id="SWHY_POWO5s-dIFylt3D" name="Page-1">
     <mxGraphModel dx="2125" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -111,12 +111,12 @@
         </mxCell>
         <mxCell id="l3Q5i7_FzfgvBJU2VW1e-28" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="1280" as="sourcePoint" />
-            <mxPoint x="260" y="1280" as="targetPoint" />
+            <mxPoint x="40" y="1330" as="sourcePoint" />
+            <mxPoint x="260" y="1330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l3Q5i7_FzfgvBJU2VW1e-29" value="提交用户自定义job任务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1260" width="140" height="20" as="geometry" />
+          <mxGeometry x="90" y="1310" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="l3Q5i7_FzfgvBJU2VW1e-30" value="razzil构建服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1044" y="660" width="120" height="60" as="geometry" />
@@ -225,14 +225,8 @@
         <mxCell id="l3Q5i7_FzfgvBJU2VW1e-54" value="构建模版实体维护并且更新给us调度服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="1140" width="610" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="l3Q5i7_FzfgvBJU2VW1e-55" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="920" y="920" as="sourcePoint" />
-            <mxPoint x="40" y="920" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="l3Q5i7_FzfgvBJU2VW1e-56" value="任务流/任务历史/debug log等功能" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="900" width="200" height="20" as="geometry" />
+          <mxGeometry x="270" y="910" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="l3Q5i7_FzfgvBJU2VW1e-57" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -257,6 +251,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="694" y="1240" as="sourcePoint" />
             <mxPoint x="914" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l3Q5i7_FzfgvBJU2VW1e-62" value="任务流/任务历史/debug log等功能" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="1240" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l3Q5i7_FzfgvBJU2VW1e-63" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="695" y="1260" as="sourcePoint" />
+            <mxPoint x="45" y="1260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
