@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-15T06:56:55.686Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="306Dtn07UWTu0wCgvjzG" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-15T06:57:49.165Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="sQ6jqbip0vF9dxfQ3bd0" version="14.1.9" type="github">
   <diagram id="SWHY_POWO5s-dIFylt3D" name="Page-1">
     <mxGraphModel dx="2125" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -200,6 +200,9 @@
         </mxCell>
         <mxCell id="l3Q5i7_FzfgvBJU2VW1e-47" value="直接调用hybris接口crud" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="900" width="356" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l3Q5i7_FzfgvBJU2VW1e-48" value="手动创建iceberg表&lt;br&gt;特殊性在需要创建cos文件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="930" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
