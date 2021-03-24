@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T06:13:06.412Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="Ji5D0lfZOkecuhlsKgxm" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-24T06:13:36.779Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="UJcYyWPazAs-v9g-lvIK" version="14.1.9" type="github">
   <diagram id="yh19zcy69SA5puemEiKL" name="Page-1">
     <mxGraphModel dx="1298" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,7 +119,7 @@
         <mxCell id="imxPeWGbiJHQKBZpV4IS-33" value="sql 改写/row fileter等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="569.5" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="imxPeWGbiJHQKBZpV4IS-52" value="&lt;h1&gt;工作量&lt;/h1&gt;&lt;p&gt;1、支持jdbc：依赖sql转发功能&lt;/p&gt;&lt;p&gt;2、calcite sql支持：支持hive/spark/cdw等等各种语法解析，校验，权限校验功能&lt;/p&gt;&lt;p&gt;3、支持emr hive/cdw 等集群注册和管理健康检查，负载等功能&lt;/p&gt;&lt;p&gt;4、权限服务模块&lt;/p&gt;&lt;p&gt;5、hybris hms根据权限模块返回部分元信息&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="imxPeWGbiJHQKBZpV4IS-52" value="&lt;h1&gt;工作量&lt;/h1&gt;&lt;p&gt;1、支持jdbc：依赖sql转发功能&lt;/p&gt;&lt;p&gt;2、calcite sql支持：支持hive/spark/cdw等等各种语法解析，校验，权限校验功能&lt;/p&gt;&lt;p&gt;3、支持emr hive/cdw 等集群注册和管理健康检查，负载等功能&lt;/p&gt;&lt;p&gt;4、权限服务模块&lt;/p&gt;&lt;p&gt;5、hybris hms根据权限模块返回部分元信息&lt;/p&gt;&lt;p&gt;6、同步权限服务规则到emr ranger&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="110" y="810" width="420" height="230" as="geometry" />
         </mxCell>
         <mxCell id="imxPeWGbiJHQKBZpV4IS-53" value="jdbc" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#006EFF;fontColor=#FF0000;" vertex="1" parent="1">
