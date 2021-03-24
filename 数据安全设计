@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T05:19:37.399Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="nOpOCCDWHjQecRFHWx8G" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-24T06:06:49.443Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="r8iW6qEOeiLG2jsb8rOz" version="14.1.9" type="github">
   <diagram id="yh19zcy69SA5puemEiKL" name="Page-1">
     <mxGraphModel dx="1298" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,15 +24,15 @@
           <mxGeometry x="100" y="400" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="imxPeWGbiJHQKBZpV4IS-4" value="用户提交sql&lt;br&gt;标准语法+hive/spark/cdw/presto不同语法适配" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006EFF;" vertex="1" parent="1">
-          <mxGeometry x="60" y="350" width="310" height="20" as="geometry" />
+          <mxGeometry x="70" y="320" width="310" height="20" as="geometry" />
         </mxCell>
         <mxCell id="imxPeWGbiJHQKBZpV4IS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="imxPeWGbiJHQKBZpV4IS-5" target="imxPeWGbiJHQKBZpV4IS-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="imxPeWGbiJHQKBZpV4IS-5" value="parse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="420" width="120" height="30" as="geometry" />
+          <mxGeometry x="185" y="430" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="imxPeWGbiJHQKBZpV4IS-7" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="imxPeWGbiJHQKBZpV4IS-2" target="imxPeWGbiJHQKBZpV4IS-5">
+        <mxCell id="imxPeWGbiJHQKBZpV4IS-7" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="imxPeWGbiJHQKBZpV4IS-53" target="imxPeWGbiJHQKBZpV4IS-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="400" as="sourcePoint" />
             <mxPoint x="420" y="350" as="targetPoint" />
@@ -112,26 +112,17 @@
         <mxCell id="imxPeWGbiJHQKBZpV4IS-33" value="sql 改写/row fileter等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="569.5" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="imxPeWGbiJHQKBZpV4IS-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#006EFF;" edge="1" parent="1" source="imxPeWGbiJHQKBZpV4IS-38" target="imxPeWGbiJHQKBZpV4IS-40">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="imxPeWGbiJHQKBZpV4IS-52" value="&lt;h1&gt;工作量&lt;/h1&gt;&lt;p&gt;1、支持jdbc&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="110" y="810" width="420" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="imxPeWGbiJHQKBZpV4IS-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#006EFF;" edge="1" parent="1" source="imxPeWGbiJHQKBZpV4IS-38" target="imxPeWGbiJHQKBZpV4IS-42">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="imxPeWGbiJHQKBZpV4IS-53" value="jdbc" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#006EFF;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="165" y="400" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="imxPeWGbiJHQKBZpV4IS-38" value="clb" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#006EFF;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="280" y="910" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="imxPeWGbiJHQKBZpV4IS-39" value="" style="endArrow=classic;html=1;fontColor=#006EFF;" edge="1" parent="1" target="imxPeWGbiJHQKBZpV4IS-38">
+        <mxCell id="imxPeWGbiJHQKBZpV4IS-54" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="imxPeWGbiJHQKBZpV4IS-2" target="imxPeWGbiJHQKBZpV4IS-53">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="339" y="840" as="sourcePoint" />
-            <mxPoint x="380" y="790" as="targetPoint" />
+            <mxPoint x="220" y="400" as="sourcePoint" />
+            <mxPoint x="236.66666666666674" y="430" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="imxPeWGbiJHQKBZpV4IS-40" value="应用cvm" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#006EFF;fontColor=#006EFF;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1030" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="imxPeWGbiJHQKBZpV4IS-42" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 110, 255); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;应用cvm&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#006EFF;fontColor=#006EFF;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
