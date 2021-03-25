@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T07:20:20.634Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="C_g2HsIHL8w__2tR_IQ_" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T07:21:48.197Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="4wQwti9vYyGpAPwTutR5" version="14.5.0" type="github">
   <diagram id="yh19zcy69SA5puemEiKL" name="Page-1">
     <mxGraphModel dx="1298" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="k4wjsENUTImXvTRVqibv-22" value="&lt;h2 id=&quot;id-计算元数据技术架构-第一阶段：支持wedatasql任务相关的元数据+计算调度功能。&quot; style=&quot;margin: 10px 0px 0px ; padding: 0px ; color: rgb(23 , 43 , 77) ; font-weight: normal ; text-transform: none ; font-size: 20px ; line-height: 1.5 ; letter-spacing: -0.008em ; border-bottom-color: rgb(255 , 255 , 255) ; font-style: normal ; text-indent: 0px ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; text-align: left&quot;&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#FF0000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="140" width="560" height="700" as="geometry" />
+        </mxCell>
         <mxCell id="k4wjsENUTImXvTRVqibv-20" value="&lt;h2 id=&quot;id-计算元数据技术架构-第一阶段：支持wedatasql任务相关的元数据+计算调度功能。&quot; style=&quot;margin: 10px 0px 0px ; padding: 0px ; color: rgb(23 , 43 , 77) ; font-weight: normal ; text-transform: none ; font-size: 20px ; line-height: 1.5 ; letter-spacing: -0.008em ; border-bottom-color: rgb(255 , 255 , 255) ; font-style: normal ; text-indent: 0px ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; text-align: left&quot;&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#FF0000;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="140" width="820" height="700" as="geometry" />
         </mxCell>
@@ -170,8 +173,11 @@
         <mxCell id="k4wjsENUTImXvTRVqibv-19" value="安全策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="570" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="k4wjsENUTImXvTRVqibv-21" value="&lt;h2 id=&quot;id-计算元数据技术架构-第一阶段：支持wedatasql任务相关的元数据+计算调度功能。&quot; style=&quot;margin: 10px 0px 0px ; padding: 0px ; color: rgb(23 , 43 , 77) ; font-weight: normal ; font-size: 20px ; line-height: 1.5 ; letter-spacing: -0.008em ; border-bottom-color: rgb(255 , 255 , 255) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; text-align: left&quot;&gt;&lt;strong style=&quot;margin: 0px&quot;&gt;第一阶段：支持wedata sql任务相关的 元数据+计算调度功能。&lt;/strong&gt;&lt;/h2&gt;&lt;div&gt;&lt;strong style=&quot;margin: 0px&quot;&gt;&lt;br&gt;&lt;/strong&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="k4wjsENUTImXvTRVqibv-21" value="&lt;div&gt;&lt;strong style=&quot;margin: 0px&quot;&gt;&lt;h2 id=&quot;id-计算元数据技术架构-第一阶段：支持wedatasql任务相关的元数据+计算调度功能。&quot; style=&quot;margin: 10px 0px 0px ; padding: 0px ; color: rgb(23 , 43 , 77) ; font-weight: normal ; font-size: 20px ; line-height: 1.5 ; letter-spacing: -0.008em ; border-bottom-color: rgb(255 , 255 , 255) ; background-color: rgb(255 , 255 , 255) ; text-align: left&quot;&gt;&lt;strong style=&quot;margin: 0px&quot;&gt;第一阶段：支持wedata sql任务相关的 元数据+计算调度功能。&lt;/strong&gt;&lt;/h2&gt;&lt;div&gt;&lt;strong style=&quot;margin: 0px&quot;&gt;&lt;br&gt;&lt;/strong&gt;&lt;/div&gt;&lt;/strong&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="70" y="160" width="570" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k4wjsENUTImXvTRVqibv-23" value="&lt;div&gt;&lt;strong style=&quot;margin: 0px&quot;&gt;&lt;h2 id=&quot;id-计算元数据技术架构-第一阶段：支持wedatasql任务相关的元数据+计算调度功能。&quot; style=&quot;margin: 10px 0px 0px ; padding: 0px ; color: rgb(23 , 43 , 77) ; font-weight: normal ; font-size: 20px ; line-height: 1.5 ; letter-spacing: -0.008em ; border-bottom-color: rgb(255 , 255 , 255) ; background-color: rgb(255 , 255 , 255) ; text-align: left&quot;&gt;&lt;strong style=&quot;margin: 0px&quot;&gt;第一阶段：支持wedata sql任务相关的 元数据+计算调度功能。&lt;/strong&gt;&lt;/h2&gt;&lt;div&gt;&lt;strong style=&quot;margin: 0px&quot;&gt;&lt;br&gt;&lt;/strong&gt;&lt;/div&gt;&lt;/strong&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="880" y="160" width="570" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
