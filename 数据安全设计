@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T08:02:25.704Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="i8NWpak9yRsTbBNKp-dJ" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T08:03:19.237Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="81HEhEaRns6R2ZsvgiQb" version="14.5.0" type="github">
   <diagram id="yh19zcy69SA5puemEiKL" name="Page-1">
     <mxGraphModel dx="1298" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,16 +70,17 @@
         <mxCell id="imxPeWGbiJHQKBZpV4IS-12" value="权限校验" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="185" y="530" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="k4wjsENUTImXvTRVqibv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="imxPeWGbiJHQKBZpV4IS-15">
+        <mxCell id="k4wjsENUTImXvTRVqibv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="imxPeWGbiJHQKBZpV4IS-15" target="imxPeWGbiJHQKBZpV4IS-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="630" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="630" y="280" />
+              <mxPoint x="588" y="340" />
+              <mxPoint x="550" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="imxPeWGbiJHQKBZpV4IS-15" value="&lt;font color=&quot;#ff0000&quot;&gt;安全中心&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="515" y="477.5" width="230" height="135" as="geometry" />
+          <mxGeometry x="515" y="477.5" width="145" height="135" as="geometry" />
         </mxCell>
         <mxCell id="imxPeWGbiJHQKBZpV4IS-19" value="eks/presto" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="750" width="90" height="60" as="geometry" />
@@ -168,10 +169,10 @@
           <mxGeometry x="185" y="585" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k4wjsENUTImXvTRVqibv-18" value="多租户ranger设计改造" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="500" width="130" height="30" as="geometry" />
+          <mxGeometry x="522.5" y="500" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k4wjsENUTImXvTRVqibv-19" value="安全策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="570" width="130" height="30" as="geometry" />
+          <mxGeometry x="522.5" y="570" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k4wjsENUTImXvTRVqibv-21" value="&lt;div&gt;&lt;strong style=&quot;margin: 0px&quot;&gt;&lt;h2 id=&quot;id-计算元数据技术架构-第一阶段：支持wedatasql任务相关的元数据+计算调度功能。&quot; style=&quot;margin: 10px 0px 0px ; padding: 0px ; color: rgb(23 , 43 , 77) ; font-weight: normal ; font-size: 20px ; line-height: 1.5 ; letter-spacing: -0.008em ; border-bottom-color: rgb(255 , 255 , 255) ; background-color: rgb(255 , 255 , 255) ; text-align: left&quot;&gt;&lt;strong style=&quot;margin: 0px&quot;&gt;第一阶段：支持wedata sql任务相关的 元数据+计算调度功能。&lt;/strong&gt;&lt;/h2&gt;&lt;div&gt;&lt;strong style=&quot;margin: 0px&quot;&gt;&lt;br&gt;&lt;/strong&gt;&lt;/div&gt;&lt;/strong&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="70" y="160" width="570" height="20" as="geometry" />
