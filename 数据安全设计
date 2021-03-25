@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T08:03:51.823Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Ahm7OeZFSWkw_k4Nzmo4" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T08:04:28.741Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="jlGB6T1CLrVnnbt3LVPl" version="14.5.0" type="github">
   <diagram id="yh19zcy69SA5puemEiKL" name="Page-1">
     <mxGraphModel dx="1298" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -180,8 +180,14 @@
         <mxCell id="k4wjsENUTImXvTRVqibv-23" value="&lt;div&gt;&lt;strong style=&quot;margin: 0px&quot;&gt;&lt;h2 id=&quot;id-计算元数据技术架构-第一阶段：支持wedatasql任务相关的元数据+计算调度功能。&quot; style=&quot;margin: 10px 0px 0px ; padding: 0px ; color: rgb(23 , 43 , 77) ; font-weight: normal ; font-size: 20px ; line-height: 1.5 ; letter-spacing: -0.008em ; border-bottom-color: rgb(255 , 255 , 255) ; background-color: rgb(255 , 255 , 255) ; text-align: left&quot;&gt;&lt;strong style=&quot;margin: 0px&quot;&gt;第二阶段：支持wedata 非sql任务相关的 元数据+计算调度功能。&lt;/strong&gt;&lt;/h2&gt;&lt;div&gt;&lt;strong style=&quot;margin: 0px&quot;&gt;&lt;br&gt;&lt;/strong&gt;&lt;/div&gt;&lt;/strong&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="880" y="160" width="580" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="k4wjsENUTImXvTRVqibv-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=#999999;fontColor=#FF0000;" edge="1" parent="1" source="k4wjsENUTImXvTRVqibv-25" target="imxPeWGbiJHQKBZpV4IS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="k4wjsENUTImXvTRVqibv-25" value="&lt;font color=&quot;#ff0000&quot;&gt;集群管理与任务执行&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="682" y="477.5" width="145" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="k4wjsENUTImXvTRVqibv-27" value="集群配置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="710" y="360" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
