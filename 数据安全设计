@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T06:20:41.736Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="iRR0-n2OwLCc93-rQZBS" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T06:21:18.223Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="OEjjW9SgycWHQDVFVSUT" version="14.5.0" type="github">
   <diagram id="yh19zcy69SA5puemEiKL" name="Page-1">
     <mxGraphModel dx="1298" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -135,8 +135,8 @@
             <mxPoint x="236.66666666666674" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="imxPeWGbiJHQKBZpV4IS-56" value="同步权限规则到emr ranger" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="425" y="690" width="40" height="20" as="geometry" />
+        <mxCell id="imxPeWGbiJHQKBZpV4IS-56" value="同步权限规则到emr ranger&lt;br&gt;sql 配置安全策略" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="425" y="690" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k4wjsENUTImXvTRVqibv-1" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="imxPeWGbiJHQKBZpV4IS-1" target="imxPeWGbiJHQKBZpV4IS-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -164,6 +164,9 @@
             <mxPoint x="245" y="640" as="sourcePoint" />
             <mxPoint x="195" y="690" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="k4wjsENUTImXvTRVqibv-14" value="安全配置入口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="530" y="420" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
