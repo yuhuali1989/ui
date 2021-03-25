@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T08:46:17.460Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="c3Fh5r1aG7YPLSQAk_qE" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T08:46:34.189Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="qe8XpuH50fpijfeffQKr" version="14.5.0" type="github">
   <diagram id="yh19zcy69SA5puemEiKL" name="Page-1">
     <mxGraphModel dx="1854" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,7 +24,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k4wjsENUTImXvTRVqibv-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontColor=#FF0000;" edge="1" parent="1" source="imxPeWGbiJHQKBZpV4IS-1" target="k4wjsENUTImXvTRVqibv-25">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="753" y="280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="imxPeWGbiJHQKBZpV4IS-1" value="wedata" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="220" width="800" height="60" as="geometry" />
@@ -168,7 +172,7 @@
           <mxGeometry x="680" y="650" width="145" height="135" as="geometry" />
         </mxCell>
         <mxCell id="k4wjsENUTImXvTRVqibv-27" value="集群配置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="710" y="360" width="40" height="20" as="geometry" />
+          <mxGeometry x="700" y="360" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="imxPeWGbiJHQKBZpV4IS-56" value="同步权限规则到emr ranger&lt;br&gt;sql 配置安全策略" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="465" y="765" width="125" height="20" as="geometry" />
