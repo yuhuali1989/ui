@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T08:04:46.090Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="sVENvvZ_JUjoMNDCbGkv" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T08:06:25.691Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="vzwyPRrq_Aprf9ARvfRi" version="14.5.0" type="github">
   <diagram id="yh19zcy69SA5puemEiKL" name="Page-1">
     <mxGraphModel dx="1298" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="k4wjsENUTImXvTRVqibv-22" value="&lt;h2 id=&quot;id-计算元数据技术架构-第一阶段：支持wedatasql任务相关的元数据+计算调度功能。&quot; style=&quot;margin: 10px 0px 0px ; padding: 0px ; color: rgb(23 , 43 , 77) ; font-weight: normal ; text-transform: none ; font-size: 20px ; line-height: 1.5 ; letter-spacing: -0.008em ; border-bottom-color: rgb(255 , 255 , 255) ; font-style: normal ; text-indent: 0px ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; text-align: left&quot;&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#FF0000;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="140" width="560" height="700" as="geometry" />
+          <mxGeometry x="880" y="140" width="560" height="770" as="geometry" />
         </mxCell>
         <mxCell id="k4wjsENUTImXvTRVqibv-20" value="&lt;h2 id=&quot;id-计算元数据技术架构-第一阶段：支持wedatasql任务相关的元数据+计算调度功能。&quot; style=&quot;margin: 10px 0px 0px ; padding: 0px ; color: rgb(23 , 43 , 77) ; font-weight: normal ; text-transform: none ; font-size: 20px ; line-height: 1.5 ; letter-spacing: -0.008em ; border-bottom-color: rgb(255 , 255 , 255) ; font-style: normal ; text-indent: 0px ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; text-align: left&quot;&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#FF0000;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="140" width="820" height="700" as="geometry" />
+          <mxGeometry x="50" y="140" width="820" height="770" as="geometry" />
         </mxCell>
         <mxCell id="imxPeWGbiJHQKBZpV4IS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="imxPeWGbiJHQKBZpV4IS-1" target="imxPeWGbiJHQKBZpV4IS-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -82,34 +82,21 @@
         <mxCell id="imxPeWGbiJHQKBZpV4IS-15" value="&lt;font color=&quot;#ff0000&quot;&gt;安全中心&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="515" y="477.5" width="145" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="imxPeWGbiJHQKBZpV4IS-19" value="eks/presto" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="750" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="imxPeWGbiJHQKBZpV4IS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="imxPeWGbiJHQKBZpV4IS-19" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="245" y="640" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="245" y="690" />
-              <mxPoint x="195" y="690" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="imxPeWGbiJHQKBZpV4IS-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="imxPeWGbiJHQKBZpV4IS-20" target="imxPeWGbiJHQKBZpV4IS-21" edge="1">
+        <mxCell id="k4wjsENUTImXvTRVqibv-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#999999;fontColor=#FF0000;" edge="1" parent="1" source="imxPeWGbiJHQKBZpV4IS-20" target="k4wjsENUTImXvTRVqibv-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="245" y="690" />
-              <mxPoint x="305" y="690" />
+              <mxPoint x="245" y="718" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="imxPeWGbiJHQKBZpV4IS-20" value="任务执行" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="185" y="635" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="k4wjsENUTImXvTRVqibv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.414;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FF0000;" edge="1" parent="1" source="imxPeWGbiJHQKBZpV4IS-21" target="imxPeWGbiJHQKBZpV4IS-15">
+        <mxCell id="k4wjsENUTImXvTRVqibv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.414;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FF0000;" edge="1" parent="1" source="imxPeWGbiJHQKBZpV4IS-56" target="imxPeWGbiJHQKBZpV4IS-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="imxPeWGbiJHQKBZpV4IS-21" value="&lt;font color=&quot;#006eff&quot;&gt;emr/hive/spark-thrift server&lt;br&gt;cdw。。。&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EFF;" parent="1" vertex="1">
-          <mxGeometry x="260" y="750" width="90" height="60" as="geometry" />
+          <mxGeometry x="620" y="840" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k4wjsENUTImXvTRVqibv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#999999;fontColor=#999999;" edge="1" parent="1" source="imxPeWGbiJHQKBZpV4IS-25" target="imxPeWGbiJHQKBZpV4IS-30">
           <mxGeometry relative="1" as="geometry" />
@@ -141,9 +128,6 @@
             <mxPoint x="236.66666666666674" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="imxPeWGbiJHQKBZpV4IS-56" value="同步权限规则到emr ranger&lt;br&gt;sql 配置安全策略" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="351" y="690" width="125" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="k4wjsENUTImXvTRVqibv-1" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#999999;" edge="1" parent="1" source="imxPeWGbiJHQKBZpV4IS-1" target="imxPeWGbiJHQKBZpV4IS-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="640" as="sourcePoint" />
@@ -152,15 +136,6 @@
         </mxCell>
         <mxCell id="imxPeWGbiJHQKBZpV4IS-33" value="安全中心插件" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="305" y="530" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="k4wjsENUTImXvTRVqibv-10" value="jdbc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="225" y="690" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="k4wjsENUTImXvTRVqibv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="imxPeWGbiJHQKBZpV4IS-20" target="k4wjsENUTImXvTRVqibv-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="245" y="640" as="sourcePoint" />
-            <mxPoint x="195" y="690" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="k4wjsENUTImXvTRVqibv-14" value="安全配置入口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="590" y="360" width="40" height="20" as="geometry" />
@@ -188,6 +163,15 @@
         </mxCell>
         <mxCell id="k4wjsENUTImXvTRVqibv-27" value="集群配置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="710" y="360" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="imxPeWGbiJHQKBZpV4IS-56" value="同步权限规则到emr ranger&lt;br&gt;sql 配置安全策略" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="522.5" y="650" width="125" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k4wjsENUTImXvTRVqibv-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.414;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FF0000;" edge="1" parent="1" source="imxPeWGbiJHQKBZpV4IS-21" target="imxPeWGbiJHQKBZpV4IS-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665" y="840" as="sourcePoint" />
+            <mxPoint x="575.03" y="611.2850000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
