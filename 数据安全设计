@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-01T06:09:21.247Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="gIE8UVq44pXACiQMZWjX" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-01T06:10:20.701Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="cAsp1HlA2CR5GdF7ASHN" version="14.5.0" type="github">
   <diagram id="yh19zcy69SA5puemEiKL" name="Page-1">
     <mxGraphModel dx="742" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -228,6 +228,9 @@
         </mxCell>
         <mxCell id="k4wjsENUTImXvTRVqibv-53" value="&lt;font style=&quot;font-size: 11px&quot;&gt;安全中心插件&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;fillColor=#ffffff;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="345" y="1380" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k4wjsENUTImXvTRVqibv-58" value="&lt;font style=&quot;font-size: 12px&quot; color=&quot;#ff0000&quot;&gt;远程校验&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1360" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
