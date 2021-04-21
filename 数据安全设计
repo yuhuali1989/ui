@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-21T08:13:11.098Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="QtTo2eTOVV4KHjAnjQ-v" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-21T08:17:35.915Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="ImP-_Pjx_k4-eDxl19O2" version="14.5.0" type="github">
   <diagram id="yh19zcy69SA5puemEiKL" name="Page-1">
     <mxGraphModel dx="1909" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -196,7 +196,7 @@
           <mxGeometry x="165" y="1200" width="260" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k4wjsENUTImXvTRVqibv-44" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 15px&quot;&gt;eos-etl&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="1260" width="265" height="230" as="geometry" />
+          <mxGeometry x="-310" y="1260" width="265" height="230" as="geometry" />
         </mxCell>
         <mxCell id="k4wjsENUTImXvTRVqibv-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;fontSize=19;fontColor=#000000;" edge="1" parent="1" source="k4wjsENUTImXvTRVqibv-45" target="k4wjsENUTImXvTRVqibv-46">
           <mxGeometry relative="1" as="geometry" />
@@ -328,6 +328,16 @@
         </mxCell>
         <mxCell id="k4wjsENUTImXvTRVqibv-89" value="emr/hive/spark" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="1890.0028571428568" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k4wjsENUTImXvTRVqibv-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#FF0000;fontSize=12;fontColor=#FF0000;" edge="1" parent="1" source="k4wjsENUTImXvTRVqibv-93" target="k4wjsENUTImXvTRVqibv-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="78" y="1505" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k4wjsENUTImXvTRVqibv-93" value="集群注册rest" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;fillColor=#ffffff;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1200" width="55" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
