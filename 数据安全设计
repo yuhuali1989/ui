@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-21T08:17:35.915Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="ImP-_Pjx_k4-eDxl19O2" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-21T08:34:43.283Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="DsyxXge6L95nvb5EtEx6" version="14.5.0" type="github">
   <diagram id="yh19zcy69SA5puemEiKL" name="Page-1">
     <mxGraphModel dx="1909" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -314,10 +314,10 @@
         <mxCell id="k4wjsENUTImXvTRVqibv-83" value="VPC" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;fillColor=#ffffff;fontSize=12;fontColor=#FF0000;align=left;" vertex="1" parent="1">
           <mxGeometry x="485" y="1694" width="185" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="k4wjsENUTImXvTRVqibv-84" value="spark operator&lt;br&gt;eks/sparksession" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="k4wjsENUTImXvTRVqibv-84" value="spark operator&lt;br&gt;eks/sparksession&lt;br&gt;扩展spark-sql&lt;br&gt;operator pod 能扩展？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="517.5" y="1714" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k4wjsENUTImXvTRVqibv-86" value="rest/eos-spark 模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="k4wjsENUTImXvTRVqibv-86" value="yaml" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="370" y="1730" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k4wjsENUTImXvTRVqibv-87" value="VPC" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;fillColor=#ffffff;fontSize=12;fontColor=#FF0000;align=left;" vertex="1" parent="1">
@@ -338,6 +338,9 @@
         </mxCell>
         <mxCell id="k4wjsENUTImXvTRVqibv-93" value="集群注册rest" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;fillColor=#ffffff;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="50" y="1200" width="55" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="k4wjsENUTImXvTRVqibv-95" value="yaml" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1870" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
