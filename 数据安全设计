@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-21T06:35:19.358Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Wzaz1x402bvhtB9TDRiK" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-21T07:06:47.372Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="scYZcQFA5A8fRUBZztAV" version="14.5.0" type="github">
   <diagram id="yh19zcy69SA5puemEiKL" name="Page-1">
-    <mxGraphModel dx="2125" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -292,7 +292,7 @@
         <mxCell id="k4wjsENUTImXvTRVqibv-69" value="透传" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="167.5" y="1310" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="k4wjsENUTImXvTRVqibv-73" value="multi&amp;nbsp;&lt;span style=&quot;color: rgb(3 , 47 , 98) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;SparkSQLEngine&lt;/span&gt;&lt;br&gt;emr/sparksession" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="k4wjsENUTImXvTRVqibv-73" value="multi&amp;nbsp;&lt;span class=&quot;final-path&quot; style=&quot;box-sizing: border-box ; font-weight: 600 ; color: rgb(36 , 41 , 46) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;kyuubi-spark-sql-engine&lt;/span&gt;&lt;br&gt;emr/sparksession&lt;br&gt;网络复杂" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="517.5" y="1580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k4wjsENUTImXvTRVqibv-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;fontSize=19;fontColor=#000000;exitX=0.999;exitY=0.567;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="k4wjsENUTImXvTRVqibv-59" target="k4wjsENUTImXvTRVqibv-73">
@@ -307,7 +307,7 @@
         <mxCell id="k4wjsENUTImXvTRVqibv-78" value="VPC" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;fillColor=#ffffff;fontSize=12;fontColor=#FF0000;align=left;" vertex="1" parent="1">
           <mxGeometry x="680" y="1560" width="185" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="k4wjsENUTImXvTRVqibv-79" value="粘性ingress&lt;br&gt;multi&amp;nbsp;&lt;span style=&quot;color: rgb(3 , 47 , 98) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;SparkSQLEngine&lt;/span&gt;&lt;br&gt;eks/sparksession" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="k4wjsENUTImXvTRVqibv-79" value="粘性ingress&lt;br&gt;multi&amp;nbsp;&lt;span class=&quot;final-path&quot; style=&quot;box-sizing: border-box ; font-weight: 600 ; color: rgb(36 , 41 , 46) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;kyuubi-spark-sql-engine&lt;/span&gt;&lt;br&gt;eks/sparksession" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="712.5" y="1580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k4wjsENUTImXvTRVqibv-81" value="JDBC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
@@ -321,6 +321,15 @@
         </mxCell>
         <mxCell id="k4wjsENUTImXvTRVqibv-86" value="rest/eos-spark 模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="370" y="1730" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k4wjsENUTImXvTRVqibv-87" value="VPC" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;fillColor=#ffffff;fontSize=12;fontColor=#FF0000;align=left;" vertex="1" parent="1">
+          <mxGeometry x="485" y="1840" width="185" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="k4wjsENUTImXvTRVqibv-88" value="eks/sparksession" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="517.5" y="1850" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k4wjsENUTImXvTRVqibv-89" value="emr/hive/spark" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="1890.0028571428568" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
