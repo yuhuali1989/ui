@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-23T04:31:19.417Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="R0eOpJKUKpattPTHOpde" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-23T04:31:48.761Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="vm3nM57-9pftmnJOLcAm" version="14.5.0" type="github">
   <diagram id="yh19zcy69SA5puemEiKL" name="Page-1">
     <mxGraphModel dx="2125" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -272,7 +272,7 @@
         <mxCell id="k4wjsENUTImXvTRVqibv-59" value="集群管理" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;fillColor=#ffffff;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="245" y="1460" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k4wjsENUTImXvTRVqibv-62" value="eks/presto&lt;br&gt;没有session保持" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="k4wjsENUTImXvTRVqibv-62" value="eks/presto dml&lt;br&gt;没有session保持" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="137.5" y="1580.0028571428568" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k4wjsENUTImXvTRVqibv-64" value="kyuubi&lt;br&gt;emr/eks/sparksession&lt;br&gt;zk强依赖&lt;br&gt;略重" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -347,7 +347,7 @@
         <mxCell id="k4wjsENUTImXvTRVqibv-101" value="需要session保持&lt;br&gt;及预热" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;fillColor=#ffffff;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="425" y="1460" width="115" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k4wjsENUTImXvTRVqibv-103" value="云梯公共vpc" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;fillColor=#ffffff;fontSize=12;fontColor=#FF0000;align=left;" vertex="1" parent="1">
+        <mxCell id="k4wjsENUTImXvTRVqibv-103" value="云梯vpc" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;fillColor=#ffffff;fontSize=12;fontColor=#FF0000;align=left;" vertex="1" parent="1">
           <mxGeometry x="-115" y="1560" width="185" height="120" as="geometry" />
         </mxCell>
         <mxCell id="k4wjsENUTImXvTRVqibv-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF0000;fontSize=12;fontColor=#FF0000;" edge="1" parent="1" source="k4wjsENUTImXvTRVqibv-59" target="k4wjsENUTImXvTRVqibv-103">
@@ -358,6 +358,9 @@
               <mxPoint y="1540" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="k4wjsENUTImXvTRVqibv-104" value="eks/hive ddl" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="1580.0028571428568" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
