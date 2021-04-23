@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-23T04:44:00.749Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="bJdBJnaBWPNgxkHf2TmG" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-23T04:48:31.931Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="9726GzlhXZh-fmQqqHr9" version="14.5.0" type="github">
   <diagram id="yh19zcy69SA5puemEiKL" name="Page-1">
     <mxGraphModel dx="2125" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -378,11 +378,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="k4wjsENUTImXvTRVqibv-109" value="统一执行无session" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="k4wjsENUTImXvTRVqibv-109" value="统一执行无session batch execute sql" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="5" y="1940" width="175" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="k4wjsENUTImXvTRVqibv-111" value="统一执行spark session" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="643.75" y="1690" width="217.5" height="20" as="geometry" />
+        <mxCell id="k4wjsENUTImXvTRVqibv-111" value="统一执行spark 有session机制" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="643.75" y="1690" width="266.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k4wjsENUTImXvTRVqibv-112" value="session模块" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;fillColor=#ffffff;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="380" y="1470" width="65" height="40" as="geometry" />
