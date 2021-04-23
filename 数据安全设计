@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-23T03:39:17.152Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="DrtztLg9EfVRz_bvfffV" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-23T03:40:16.317Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="QwJJB9vsTW25mPhoZU1T" version="14.5.0" type="github">
   <diagram id="yh19zcy69SA5puemEiKL" name="Page-1">
     <mxGraphModel dx="742" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -343,6 +343,9 @@
               <mxPoint x="295" y="1745" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="k4wjsENUTImXvTRVqibv-101" value="需要session保持&lt;br&gt;及预热" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;fillColor=#ffffff;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="425" y="1460" width="115" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
