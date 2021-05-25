@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T06:47:20.268Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="o50uOazyGZU8ydq8lgWO" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-25T06:47:51.305Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="myTspC2JiwbDmrf97PQw" version="14.7.0" type="github">
   <diagram id="twri2CAGCcx9iSkDeN8W" name="Page-1">
     <mxGraphModel dx="1298" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="ujEL6muEBZcrQy2mOvy8-13" value="RSCDriver" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="354" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ujEL6muEBZcrQy2mOvy8-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="ujEL6muEBZcrQy2mOvy8-14" target="ujEL6muEBZcrQy2mOvy8-13">
+        <mxCell id="ujEL6muEBZcrQy2mOvy8-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#FF0000;" edge="1" parent="1" source="ujEL6muEBZcrQy2mOvy8-14" target="ujEL6muEBZcrQy2mOvy8-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ujEL6muEBZcrQy2mOvy8-14" value="RSCClient" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
@@ -61,7 +61,7 @@
         <mxCell id="ujEL6muEBZcrQy2mOvy8-21" value="持有唯一sparkcontext" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="390" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ujEL6muEBZcrQy2mOvy8-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="ujEL6muEBZcrQy2mOvy8-22" target="ujEL6muEBZcrQy2mOvy8-14">
+        <mxCell id="ujEL6muEBZcrQy2mOvy8-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeColor=#FF0000;" edge="1" parent="1" source="ujEL6muEBZcrQy2mOvy8-22" target="ujEL6muEBZcrQy2mOvy8-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ujEL6muEBZcrQy2mOvy8-22" value="run spark sql根据req session id提交到响应session执行sql&lt;br&gt;JsonServlet#jpost[executeRequest]&lt;br&gt;SessionServlet#doWithSession&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
