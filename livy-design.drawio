@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T07:28:26.121Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="5EH3GIShy7dOj0G869h9" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-25T07:30:56.567Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="N_1AyyN72tnhfU5QD8BL" version="14.7.0" type="github">
   <diagram id="twri2CAGCcx9iSkDeN8W" name="Page-1">
     <mxGraphModel dx="1298" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -77,9 +77,9 @@
             <mxGeometry x="80" y="405" width="150" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="ReplDriver#handle(ReplJobRequest)&lt;br&gt;Session#execute&lt;br&gt;根据kind选择interpreter类型执行code" link="org.apache.livy.repl.ReplDriver#handle" id="ujEL6muEBZcrQy2mOvy8-25">
+        <UserObject label="ReplDriver#handle(ReplJobRequest)&lt;br&gt;Session#execute&lt;br&gt;根据kind选择interpreter类型执行code&lt;br&gt;sql kind选择sqlinterpreter&amp;nbsp;&lt;br&gt;execute spark.sql(sql)执行sql&lt;br&gt;并获取result.take(最大返回结果数)" link="org.apache.livy.repl.ReplDriver#handle" id="ujEL6muEBZcrQy2mOvy8-25">
           <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="308.5" y="440" width="211" height="30" as="geometry" />
+            <mxGeometry x="308.5" y="440" width="211" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="ujEL6muEBZcrQy2mOvy8-27" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;dashed=1;endArrow=none;" edge="1" parent="1" source="ujEL6muEBZcrQy2mOvy8-5" target="ujEL6muEBZcrQy2mOvy8-25">
