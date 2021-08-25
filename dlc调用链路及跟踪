@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-25T07:08:25.582Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="CWJkwV0vB3kkL8oOY8fp" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-25T07:09:35.438Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="zh-eJZaCpzkIfDKMkqF-" version="14.8.2" type="github">
   <diagram id="Q15vICJ4YhA1SEZXqNgu" name="Page-1">
     <mxGraphModel dx="1298" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,8 +40,18 @@
         <mxCell id="AuS5A4TIzfyxjNeRm6Hi-6" value="1、系统配置-查询结果位置&lt;br&gt;2、添加数据表向导" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="607" y="230" width="220" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="AuS5A4TIzfyxjNeRm6Hi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AuS5A4TIzfyxjNeRm6Hi-7" target="AuS5A4TIzfyxjNeRm6Hi-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AuS5A4TIzfyxjNeRm6Hi-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AuS5A4TIzfyxjNeRm6Hi-7" target="AuS5A4TIzfyxjNeRm6Hi-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AuS5A4TIzfyxjNeRm6Hi-7" value="treehole" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AuS5A4TIzfyxjNeRm6Hi-8" value="cos服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="620" width="120" height="60" as="geometry" />
@@ -57,6 +67,15 @@
         </mxCell>
         <mxCell id="AuS5A4TIzfyxjNeRm6Hi-12" value="有可能会做" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="410" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AuS5A4TIzfyxjNeRm6Hi-16" value="eks" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AuS5A4TIzfyxjNeRm6Hi-17" value="首次开通，初始化eks服务&lt;br&gt;并且注册到eos服务" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="390" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AuS5A4TIzfyxjNeRm6Hi-19" value="eos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
