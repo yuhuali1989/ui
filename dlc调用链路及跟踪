@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-25T07:15:59.733Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="EejiIXlOlXVECJpBiVf1" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-25T07:19:02.016Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="OP0JQHDdnWlwq3LKTDIp" version="14.8.2" type="github">
   <diagram id="Q15vICJ4YhA1SEZXqNgu" name="Page-1">
     <mxGraphModel dx="1298" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
             <Array as="points">
               <mxPoint x="400" y="260" />
               <mxPoint x="400" y="400" />
-              <mxPoint x="610" y="400" />
+              <mxPoint x="690" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -32,38 +32,42 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AuS5A4TIzfyxjNeRm6Hi-2" value="DLC前端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AuS5A4TIzfyxjNeRm6Hi-4" value="cos前端插件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="947" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AuS5A4TIzfyxjNeRm6Hi-6" value="1、系统配置-查询结果位置&lt;br&gt;2、添加数据表向导" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="607" y="230" width="220" height="20" as="geometry" />
+          <mxGeometry x="770" y="230" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AuS5A4TIzfyxjNeRm6Hi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AuS5A4TIzfyxjNeRm6Hi-7" target="AuS5A4TIzfyxjNeRm6Hi-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="820" y="455" as="targetPoint" />
+            <mxPoint x="900" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AuS5A4TIzfyxjNeRm6Hi-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AuS5A4TIzfyxjNeRm6Hi-7" target="AuS5A4TIzfyxjNeRm6Hi-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="610" y="555" as="targetPoint" />
+            <mxPoint x="690" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AuS5A4TIzfyxjNeRm6Hi-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AuS5A4TIzfyxjNeRm6Hi-7" target="AuS5A4TIzfyxjNeRm6Hi-25">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="660" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="420" y="455" />
-              <mxPoint x="420" y="640" />
+              <mxPoint x="370" y="455" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="AuS5A4TIzfyxjNeRm6Hi-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AuS5A4TIzfyxjNeRm6Hi-7" target="AuS5A4TIzfyxjNeRm6Hi-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AuS5A4TIzfyxjNeRm6Hi-7" value="treehole" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="425" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AuS5A4TIzfyxjNeRm6Hi-8" value="cos服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AuS5A4TIzfyxjNeRm6Hi-9" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="AuS5A4TIzfyxjNeRm6Hi-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -78,52 +82,56 @@
           <mxGeometry x="250" y="410" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AuS5A4TIzfyxjNeRm6Hi-16" value="eks" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="425" width="230" height="60" as="geometry" />
+          <mxGeometry x="930" y="450" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AuS5A4TIzfyxjNeRm6Hi-17" value="首次开通，初始化eks服务&lt;br&gt;并且注册到eos服务" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="425" width="220" height="20" as="geometry" />
+          <mxGeometry x="770" y="450" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AuS5A4TIzfyxjNeRm6Hi-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AuS5A4TIzfyxjNeRm6Hi-19" target="AuS5A4TIzfyxjNeRm6Hi-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AuS5A4TIzfyxjNeRm6Hi-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AuS5A4TIzfyxjNeRm6Hi-19" target="AuS5A4TIzfyxjNeRm6Hi-25">
+        <mxCell id="AuS5A4TIzfyxjNeRm6Hi-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AuS5A4TIzfyxjNeRm6Hi-19" target="AuS5A4TIzfyxjNeRm6Hi-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="610" y="650" />
+              <mxPoint x="690" y="670" />
+              <mxPoint x="400" y="670" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="AuS5A4TIzfyxjNeRm6Hi-19" value="eos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="525" width="120" height="55" as="geometry" />
+          <mxGeometry x="630" y="550" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="AuS5A4TIzfyxjNeRm6Hi-21" value="首次query，eks上创建presto集群，约1分钟，10分钟无query，presto集群关闭" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="525" width="220" height="20" as="geometry" />
+          <mxGeometry x="770" y="550" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AuS5A4TIzfyxjNeRm6Hi-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AuS5A4TIzfyxjNeRm6Hi-22" target="AuS5A4TIzfyxjNeRm6Hi-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1040" y="700" />
-              <mxPoint x="420" y="700" />
+              <mxPoint x="1099" y="820" />
+              <mxPoint x="370" y="820" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="AuS5A4TIzfyxjNeRm6Hi-22" value="presto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="987" y="445" width="63" height="30" as="geometry" />
+          <mxGeometry x="1067" y="470" width="63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AuS5A4TIzfyxjNeRm6Hi-23" value="联邦网络打通" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="465" width="220" height="20" as="geometry" />
+          <mxGeometry x="770" y="490" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AuS5A4TIzfyxjNeRm6Hi-25" value="hybris&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AuS5A4TIzfyxjNeRm6Hi-26" value="元数据前端展示/联邦数据源实时获取" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="490" width="110" height="20" as="geometry" />
+          <mxGeometry x="320" y="490" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AuS5A4TIzfyxjNeRm6Hi-28" value="大部分show 语法 eos直接查询hyrbis&lt;br&gt;function除外" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="580" y="620" width="150" height="20" as="geometry" />
+          <mxGeometry x="660" y="645" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AuS5A4TIzfyxjNeRm6Hi-30" value="hms服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="680" width="70" height="20" as="geometry" />
+          <mxGeometry x="660" y="800" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AuS5A4TIzfyxjNeRm6Hi-32" value="ranger" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
