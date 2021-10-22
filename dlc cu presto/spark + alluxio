@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-10-22T06:49:31.763Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="lnvEdPv67RX4KAvGr8bJ" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-22T06:52:12.530Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="-qevVbeRVCOENgObampL" version="15.0.6" type="github">
   <diagram id="iUVBw2Y2bLhf0VYZ5btC" name="Page-1">
     <mxGraphModel dx="1298" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WloF8g262gR6L6-ybi61-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="250" width="610" height="410" as="geometry" />
+          <mxGeometry x="90" y="250" width="680" height="410" as="geometry" />
         </mxCell>
         <mxCell id="WloF8g262gR6L6-ybi61-2" value="EKS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="270" width="40" height="20" as="geometry" />
@@ -55,8 +55,14 @@
             <mxPoint x="510" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WloF8g262gR6L6-ybi61-23" value="弹性扩所容" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="WloF8g262gR6L6-ybi61-23" value="自动弹性扩所容" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="270" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WloF8g262gR6L6-ybi61-25" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="350" as="sourcePoint" />
+            <mxPoint x="180" y="550" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
