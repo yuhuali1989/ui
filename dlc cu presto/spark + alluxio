@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-22T06:53:40.163Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="iyp6bDRGm9byP4JkjTQa" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-22T06:54:21.412Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="2-mTypeAAdReU8oIkdJC" version="15.0.6" type="github">
   <diagram id="iUVBw2Y2bLhf0VYZ5btC" name="Page-1">
     <mxGraphModel dx="1298" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,6 +66,9 @@
         </mxCell>
         <mxCell id="WloF8g262gR6L6-ybi61-26" value="手动触发，相对固定规模" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="370" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="WloF8g262gR6L6-ybi61-29" value="&lt;h1&gt;presto 虚拟集群架构方案&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="170" width="320" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
