@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-22T06:47:35.093Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="DnMbRmI05_DuUK1EA5nw" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-22T06:48:02.328Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="1R0LVmuwZNhDdwMO-6v5" version="15.0.6" type="github">
   <diagram id="iUVBw2Y2bLhf0VYZ5btC" name="Page-1">
     <mxGraphModel dx="1298" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,10 +22,10 @@
         <mxCell id="WloF8g262gR6L6-ybi61-7" value="&lt;span class=&quot;qkunPe&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;worker pod&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="460" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="WloF8g262gR6L6-ybi61-8" value="alluxio-sidecar" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="WloF8g262gR6L6-ybi61-8" value="alluxio-master1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="420" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WloF8g262gR6L6-ybi61-9" value="alluxio-sidecar" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="WloF8g262gR6L6-ybi61-9" value="alluxio-worker1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="520" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WloF8g262gR6L6-ybi61-10" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
@@ -39,6 +39,9 @@
         </mxCell>
         <mxCell id="WloF8g262gR6L6-ybi61-13" value="&lt;span class=&quot;qkunPe&quot; style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;worker pod&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="460" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WloF8g262gR6L6-ybi61-16" value="alluxio-master2" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="420" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
