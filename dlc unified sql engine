@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-06T09:07:34.487Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="QDU5oHcX873zjqYgC0D8" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-06T09:16:25.899Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="HnjO_1ijsgboaW6Rmjo-" version="15.8.2" type="github">
   <diagram id="kdm24DX01ApmKWrf8864" name="Page-1">
     <mxGraphModel dx="2125" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
         <mxCell id="vOqi5AN1NBHrF-MpXu4C-19" value="spark" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1030" y="520" width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="vOqi5AN1NBHrF-MpXu4C-20" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;统一引擎：方案二、spark 提升高性能分析&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;待评估&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;问题点：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1、pull based shuffle&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2、stage start&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3、&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="vOqi5AN1NBHrF-MpXu4C-20" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;统一引擎：方案二、spark 提升高性能分析&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;待评估&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;问题点：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1、pull based shuffle&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2、stage start&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3、c++，intel native engine&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;4、livy session 共享资源隔离问题&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;5、并发能力 driver 线程oom，32GB&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="734" y="160" width="576" height="190" as="geometry" />
         </mxCell>
         <mxCell id="vOqi5AN1NBHrF-MpXu4C-22" value="spark thrift server" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -95,6 +95,51 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1010" y="430" as="sourcePoint" />
             <mxPoint x="1325" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOqi5AN1NBHrF-MpXu4C-31" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="750" width="700" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="vOqi5AN1NBHrF-MpXu4C-32" value="EOS&lt;br&gt;Calcite" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1020" width="400" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vOqi5AN1NBHrF-MpXu4C-33" value="presto" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1180" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vOqi5AN1NBHrF-MpXu4C-34" value="spark" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1180" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vOqi5AN1NBHrF-MpXu4C-35" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;统一引擎：方案三、presto spark智能/规则的路由&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;待评估&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;问题点：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1、sql dql /ddl&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2、presto hive udf/udaf wrapper，udf 提到github，udaf&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;3、eos load udf/udaf/udtf&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;4、&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="-28" y="760" width="608" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="vOqi5AN1NBHrF-MpXu4C-37" value="spark thrift server" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1180" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vOqi5AN1NBHrF-MpXu4C-38" value="" style="endArrow=classic;html=1;rounded=0;fontSize=19;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vOqi5AN1NBHrF-MpXu4C-32" target="vOqi5AN1NBHrF-MpXu4C-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="1180" as="sourcePoint" />
+            <mxPoint x="570" y="1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOqi5AN1NBHrF-MpXu4C-39" value="DDL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vOqi5AN1NBHrF-MpXu4C-40" value="" style="endArrow=classic;html=1;rounded=0;fontSize=19;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vOqi5AN1NBHrF-MpXu4C-32" target="vOqi5AN1NBHrF-MpXu4C-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="1180" as="sourcePoint" />
+            <mxPoint x="570" y="1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOqi5AN1NBHrF-MpXu4C-41" value="分析" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vOqi5AN1NBHrF-MpXu4C-42" value="batch etl" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vOqi5AN1NBHrF-MpXu4C-43" value="" style="endArrow=classic;html=1;rounded=0;fontSize=19;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="vOqi5AN1NBHrF-MpXu4C-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="1090" as="sourcePoint" />
+            <mxPoint x="575" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
