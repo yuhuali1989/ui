@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T03:23:58.302Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="HRfb96LlDnu0EYl0RUCN" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-20T03:24:49.087Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="MxUa4suLbrNS50q2h09j" version="15.9.4" type="github">
   <diagram id="ebQJ0tFEpQReODmqAIao" name="Page-1">
     <mxGraphModel dx="1298" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
             <mxPoint x="690" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-14" target="WN6tTOAt-TABU7jkGG25-34">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#EA6B66;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-14" target="WN6tTOAt-TABU7jkGG25-34">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="660" as="targetPoint" />
             <Array as="points">
@@ -81,7 +81,7 @@
             <mxPoint x="1220" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-26">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#EA6B66;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="690" y="790" />
@@ -118,7 +118,7 @@
         <mxCell id="WN6tTOAt-TABU7jkGG25-26" value="supersql-cloud（计算）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="530" width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-66" target="WN6tTOAt-TABU7jkGG25-34">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#EA6B66;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-66" target="WN6tTOAt-TABU7jkGG25-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="370" y="820" />
@@ -126,7 +126,7 @@
             <mxPoint x="1130" y="650" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-34">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#EA6B66;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="310" y="360" />
@@ -261,7 +261,7 @@
         <mxCell id="WN6tTOAt-TABU7jkGG25-93" value="cos provider" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="380" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-94" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;strokeColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-85">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-94" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;strokeColor=#EA6B66;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-85">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="930" y="640" as="sourcePoint" />
             <mxPoint x="945" y="820" as="targetPoint" />
