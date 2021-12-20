@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T02:46:53.396Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="p8fM7L-uSfv4HhB0dWCo" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-20T02:47:26.229Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="CINVhFhj5B7E9KifL6AG" version="15.9.4" type="github">
   <diagram id="ebQJ0tFEpQReODmqAIao" name="Page-1">
     <mxGraphModel dx="1298" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,7 +89,7 @@
           <mxGeometry x="250" y="410" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WN6tTOAt-TABU7jkGG25-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="390" width="230" height="180" as="geometry" />
+          <mxGeometry x="960" y="390" width="230" height="180" as="geometry" />
         </mxCell>
         <mxCell id="WN6tTOAt-TABU7jkGG25-20" value="首次开通，初始化eks服务&lt;br&gt;并且注册到eos服务" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="770" y="450" width="220" height="20" as="geometry" />
@@ -124,19 +124,16 @@
         <mxCell id="WN6tTOAt-TABU7jkGG25-26" value="eos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="550" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-27" value="首次query，eks上创建presto集群，约1分钟，10分钟无query，presto集群关闭" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="770" y="550" width="220" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="WN6tTOAt-TABU7jkGG25-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-31" target="WN6tTOAt-TABU7jkGG25-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1110" y="820" />
+              <mxPoint x="1130" y="820" />
               <mxPoint x="370" y="820" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WN6tTOAt-TABU7jkGG25-31" value="presto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="1060" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WN6tTOAt-TABU7jkGG25-32" value="联邦网络打通" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="770" y="490" width="220" height="20" as="geometry" />
@@ -218,7 +215,7 @@
           <mxGeometry x="1490" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WN6tTOAt-TABU7jkGG25-64" value="托管EKS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="940" y="400" width="60" height="30" as="geometry" />
+          <mxGeometry x="965" y="400" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
