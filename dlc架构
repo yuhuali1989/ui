@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T03:13:57.300Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="5v0bTr6qud0ngCNEofUk" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-20T03:15:00.636Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="0oANSHDBrMpRJWOtRsPi" version="15.9.4" type="github">
   <diagram id="ebQJ0tFEpQReODmqAIao" name="Page-1">
     <mxGraphModel dx="1298" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,11 +25,6 @@
         <mxCell id="WN6tTOAt-TABU7jkGG25-3" value="JDBC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-6" target="WN6tTOAt-TABU7jkGG25-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WN6tTOAt-TABU7jkGG25-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-6" target="WN6tTOAt-TABU7jkGG25-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="350" as="targetPoint" />
@@ -37,12 +32,6 @@
         </mxCell>
         <mxCell id="WN6tTOAt-TABU7jkGG25-6" value="DLC前端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="230" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-8" value="cos前端插件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="947" y="230" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-9" value="1、系统配置-查询结果位置&lt;br&gt;2、添加数据表向导" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="770" y="230" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WN6tTOAt-TABU7jkGG25-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-14" target="WN6tTOAt-TABU7jkGG25-26">
           <mxGeometry relative="1" as="geometry">
@@ -256,6 +245,9 @@
             <mxPoint x="720" y="650" as="sourcePoint" />
             <mxPoint x="1361" y="956" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WN6tTOAt-TABU7jkGG25-90" value="cos读写&lt;br&gt;12小时过期&lt;br&gt;刷新机制" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1251" y="860" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
