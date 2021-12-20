@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T02:41:13.567Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="zFY5QLnvgjPUpM-PgXJK" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-20T02:42:28.837Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ltGRl0A5Zl7KP7DZX2XR" version="15.9.4" type="github">
   <diagram id="ebQJ0tFEpQReODmqAIao" name="Page-1">
     <mxGraphModel dx="1298" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,11 +119,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-26" target="WN6tTOAt-TABU7jkGG25-45">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="720" y="670" />
             </Array>
+            <mxPoint x="780" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WN6tTOAt-TABU7jkGG25-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.62;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-26" target="WN6tTOAt-TABU7jkGG25-15">
@@ -200,23 +201,22 @@
         <mxCell id="WN6tTOAt-TABU7jkGG25-42" value="用户身份临时密钥访问cos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1200" y="550" width="190" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-45" target="WN6tTOAt-TABU7jkGG25-34">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="WN6tTOAt-TABU7jkGG25-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="870" y="820" />
               <mxPoint x="370" y="820" />
             </Array>
+            <mxPoint x="870" y="700" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.863;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF3333;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-45" target="WN6tTOAt-TABU7jkGG25-15">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.863;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF3333;" edge="1" parent="1" target="WN6tTOAt-TABU7jkGG25-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="979" y="670" />
             </Array>
+            <mxPoint x="960" y="670" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-45" value="手动配置集群，配置相应账号&lt;br&gt;livy&lt;br&gt;emr&lt;br&gt;spark" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="780" y="640" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WN6tTOAt-TABU7jkGG25-46" value="emr角色可refresh" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="900" y="740" width="190" height="20" as="geometry" />
@@ -250,6 +250,9 @@
         </mxCell>
         <mxCell id="WN6tTOAt-TABU7jkGG25-57" value="&lt;h1&gt;DLC 调用关系&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="150" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WN6tTOAt-TABU7jkGG25-58" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="780" y="640" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
