@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T07:32:34.511Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="EshvHi8ySmd2xv6HvvIs" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-20T07:35:01.933Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="VM6UHr6BgNR8c6DEvhx8" version="15.9.4" type="github">
   <diagram id="ebQJ0tFEpQReODmqAIao" name="Page-1">
     <mxGraphModel dx="961" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -273,8 +273,8 @@
         <mxCell id="WN6tTOAt-TABU7jkGG25-100" value="青鹅&lt;br&gt;运维计费" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;" vertex="1" parent="1">
           <mxGeometry x="590" y="450" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-101" value="&lt;h1&gt;各个模块负责人&lt;/h1&gt;&lt;p&gt;1、元数据：hybris 负责人lukexue yiwenwu codingxu valuxzhao&lt;/p&gt;&lt;p&gt;2、安全：库表权限ranger 负责人lukexue htao&lt;/p&gt;&lt;p&gt;3、supersql：&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1110" width="690" height="270" as="geometry" />
+        <mxCell id="WN6tTOAt-TABU7jkGG25-101" value="&lt;h1&gt;各个模块负责人&lt;/h1&gt;&lt;p&gt;1、元数据：hybris 负责人lukexue yiwenwu codingxu valuxzhao&lt;/p&gt;&lt;p&gt;2、安全：库表权限ranger 负责人lukexue htao&lt;/p&gt;&lt;p&gt;3、supersql：&lt;/p&gt;&lt;p&gt;资源管理/集群抽象 + spark + iceberg ：layyu + papilonwang&lt;/p&gt;&lt;p&gt;calcite 语法+路由规则+ presto：jameswu + allendang&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1110" width="690" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
