@@ -1,26 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T03:09:11.944Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="O1dNpjBji6LWCTdDD-ne" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-20T03:12:50.721Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ejAu6RatkUU_Tdnj2ntv" version="15.9.4" type="github">
   <diagram id="ebQJ0tFEpQReODmqAIao" name="Page-1">
     <mxGraphModel dx="1298" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WN6tTOAt-TABU7jkGG25-82" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#E6D0DE;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-82" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="220" y="320" width="910" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="1241" y="555" width="240" height="265" as="geometry" />
         </mxCell>
         <mxCell id="WN6tTOAt-TABU7jkGG25-60" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
           <mxGeometry x="1241" y="360" width="240" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-3" target="WN6tTOAt-TABU7jkGG25-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="570" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="280" y="430" />
-              <mxPoint x="280" y="430" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="WN6tTOAt-TABU7jkGG25-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-3" target="WN6tTOAt-TABU7jkGG25-14">
           <mxGeometry relative="1" as="geometry">
@@ -133,13 +124,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-26" value="eos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="550" width="120" height="55" as="geometry" />
+        <mxCell id="WN6tTOAt-TABU7jkGG25-26" value="supersql（计算）&lt;br&gt;sql解析validate&lt;br&gt;引擎路由&lt;br&gt;vm管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="530" width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="WN6tTOAt-TABU7jkGG25-34">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-66" target="WN6tTOAt-TABU7jkGG25-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1130" y="820" />
               <mxPoint x="370" y="820" />
             </Array>
             <mxPoint x="1130" y="650" as="sourcePoint" />
@@ -153,7 +143,7 @@
             <mxPoint x="1240" y="375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-34" value="hybris&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-34" value="hybris （元数据）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WN6tTOAt-TABU7jkGG25-35" value="元数据前端展示/联邦数据源实时获取" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -165,7 +155,7 @@
         <mxCell id="WN6tTOAt-TABU7jkGG25-37" value="hms服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="800" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-38" value="ranger" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-38" value="ranger（安全）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WN6tTOAt-TABU7jkGG25-40" value="注册服务、配置权限" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -252,11 +242,14 @@
         <mxCell id="WN6tTOAt-TABU7jkGG25-83" value="云梯VPC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1060" y="320" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-85" value="spark&lt;br&gt;thrift server" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-85" value="spark&lt;br&gt;thrift server（ddl）" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="870" y="730" width="150" height="55" as="geometry" />
         </mxCell>
         <mxCell id="WN6tTOAt-TABU7jkGG25-87" value="大部分ddl" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="780" y="650" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WN6tTOAt-TABU7jkGG25-88" value="private link" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="780" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
