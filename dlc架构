@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T07:41:51.202Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="cS1RElAimEwgqzwGGh6X" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-27T11:23:46.569Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="MHI11tx45EFwvRwDw1zz" version="16.1.0" type="github">
   <diagram id="ebQJ0tFEpQReODmqAIao" name="Page-1">
-    <mxGraphModel dx="1623" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WN6tTOAt-TABU7jkGG25-82" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFCC;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-82" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFCC;" parent="1" vertex="1">
           <mxGeometry x="220" y="320" width="910" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;" parent="1" vertex="1">
           <mxGeometry x="1241" y="555" width="240" height="265" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-60" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-60" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" parent="1" vertex="1">
           <mxGeometry x="1241" y="360" width="240" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-3" target="WN6tTOAt-TABU7jkGG25-14">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WN6tTOAt-TABU7jkGG25-3" target="WN6tTOAt-TABU7jkGG25-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="540" y="260" />
@@ -22,23 +22,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-3" value="JDBC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-3" value="JDBC" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-6" target="WN6tTOAt-TABU7jkGG25-14">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WN6tTOAt-TABU7jkGG25-6" target="WN6tTOAt-TABU7jkGG25-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-6" value="DLC前端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-6" value="DLC前端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-14" target="WN6tTOAt-TABU7jkGG25-26">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WN6tTOAt-TABU7jkGG25-14" target="WN6tTOAt-TABU7jkGG25-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="690" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#EA6B66;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-14" target="WN6tTOAt-TABU7jkGG25-34">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#EA6B66;" parent="1" source="WN6tTOAt-TABU7jkGG25-14" target="WN6tTOAt-TABU7jkGG25-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="660" as="targetPoint" />
             <Array as="points">
@@ -46,7 +46,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-14" target="WN6tTOAt-TABU7jkGG25-38">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="WN6tTOAt-TABU7jkGG25-14" target="WN6tTOAt-TABU7jkGG25-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="580" as="targetPoint" />
             <Array as="points">
@@ -55,33 +55,33 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-14" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;treehole" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-14" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;treehole" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="370" width="240" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-15" value="cos服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-15" value="cos服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="960" width="1260" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-16" value="" style="endArrow=none;html=1;strokeWidth=4;" edge="1" parent="1" target="WN6tTOAt-TABU7jkGG25-17">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-16" value="" style="endArrow=none;html=1;strokeWidth=4;" parent="1" target="WN6tTOAt-TABU7jkGG25-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="320" as="sourcePoint" />
             <mxPoint x="1150" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-17" value="api v3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-17" value="api v3" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1130" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1261" y="585" width="170" height="215" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-20" value="首次开通，初始化eks服务&lt;br&gt;并且注册到eos服务" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-20" value="首次开通，初始化eks服务&lt;br&gt;并且注册到eos服务" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="827" y="450" width="220" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-26" target="WN6tTOAt-TABU7jkGG25-66">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WN6tTOAt-TABU7jkGG25-26" target="WN6tTOAt-TABU7jkGG25-66" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1220" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#EA6B66;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-26">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#EA6B66;" parent="1" source="WN6tTOAt-TABU7jkGG25-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="690" y="790" />
@@ -90,7 +90,7 @@
             <mxPoint x="690" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-26" target="WN6tTOAt-TABU7jkGG25-38">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="WN6tTOAt-TABU7jkGG25-26" target="WN6tTOAt-TABU7jkGG25-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="660" y="680" />
@@ -98,7 +98,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000FF;fontColor=#000000;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-26" target="WN6tTOAt-TABU7jkGG25-15">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000FF;fontColor=#000000;" parent="1" source="WN6tTOAt-TABU7jkGG25-26" target="WN6tTOAt-TABU7jkGG25-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="710" y="860" />
@@ -106,7 +106,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-26" target="WN6tTOAt-TABU7jkGG25-85">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;strokeColor=#000000;" parent="1" source="WN6tTOAt-TABU7jkGG25-26" target="WN6tTOAt-TABU7jkGG25-85" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="760" y="600" />
@@ -115,10 +115,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-26" value="supersql-cloud（计算）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-26" value="supersql-cloud（计算）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="530" width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#EA6B66;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-66" target="WN6tTOAt-TABU7jkGG25-34">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#EA6B66;" parent="1" source="WN6tTOAt-TABU7jkGG25-66" target="WN6tTOAt-TABU7jkGG25-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="370" y="820" />
@@ -126,7 +126,7 @@
             <mxPoint x="1130" y="650" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#EA6B66;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-34">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#EA6B66;" parent="1" source="WN6tTOAt-TABU7jkGG25-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="310" y="360" />
@@ -135,37 +135,37 @@
             <mxPoint x="1240" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-34" value="hybris （元数据）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-34" value="hybris （元数据）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-35" value="元数据前端展示/联邦数据源实时获取" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-35" value="元数据前端展示/联邦数据源实时获取" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="490" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-36" value="大部分show 语法 eos直接查询hyrbis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-36" value="大部分show 语法 eos直接查询hyrbis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="550" y="760" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-37" value="hms服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-37" value="hms服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="640" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-38" value="ranger（安全）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-38" value="ranger（安全）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-40" value="注册服务、配置权限" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-40" value="注册服务、配置权限" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="450" y="500" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-41" value="sql解析权限，远程鉴权" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-41" value="sql解析权限，远程鉴权" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="680" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-47" value="1、ddl结果持久化&lt;br&gt;2、query结果异步获取" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-47" value="1、ddl结果持久化&lt;br&gt;2、query结果异步获取" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="710" y="730" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-50" value="cdb" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-50" value="cdb" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1281" y="410" width="70" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-52" value="实时元数据/元数据采集" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-52" value="实时元数据/元数据采集" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="860" y="365" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-53" value="" style="endArrow=none;html=1;strokeWidth=4;entryX=-0.033;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="WN6tTOAt-TABU7jkGG25-54">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-53" value="" style="endArrow=none;html=1;strokeWidth=4;entryX=-0.033;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="WN6tTOAt-TABU7jkGG25-54" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="930" as="sourcePoint" />
             <mxPoint x="1130" y="930" as="targetPoint" />
@@ -174,40 +174,40 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-54" value="api v3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-54" value="api v3" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1490" y="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-57" value="&lt;h1&gt;DLC 调用关系&lt;/h1&gt;&lt;p&gt;红色线 元数据流&lt;/p&gt;&lt;p&gt;蓝色线 数据流&lt;/p&gt;&lt;p&gt;黑色 请求控制流&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-57" value="&lt;h1&gt;DLC 调用关系&lt;/h1&gt;&lt;p&gt;红色线 元数据流&lt;/p&gt;&lt;p&gt;蓝色线 数据流&lt;/p&gt;&lt;p&gt;黑色 请求控制流&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1271" y="200" width="190" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-62" value="用户VPC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-62" value="用户VPC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1421" y="360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-65" value="emr" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-65" value="emr" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1361" y="410" width="70" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-67" value="托管账号VPC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-67" value="托管账号VPC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1421" y="565" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-68" value="EKS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-68" value="EKS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1271" y="595" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-69" value="shared presto 当前一租户多个集群弹性扩缩worker数量" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-69" value="shared presto 当前一租户多个集群弹性扩缩worker数量" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1301" y="620" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-70" value="cu presto/spark vm&lt;br&gt;用户购买弹性扩缩子集群数量&lt;br&gt;&lt;br&gt;alluxio local cache（presto now）&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-70" value="cu presto/spark vm&lt;br&gt;用户购买弹性扩缩子集群数量&lt;br&gt;&lt;br&gt;alluxio local cache（presto now）&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1301" y="690" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-73" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#0000FF;strokeWidth=3;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-69" target="WN6tTOAt-TABU7jkGG25-50">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-73" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#0000FF;strokeWidth=3;" parent="1" source="WN6tTOAt-TABU7jkGG25-69" target="WN6tTOAt-TABU7jkGG25-50" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1101" y="700" as="sourcePoint" />
             <mxPoint x="1151" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-74" value="vpc peering" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-74" value="vpc peering" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1291" y="530" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-14">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WN6tTOAt-TABU7jkGG25-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1240" y="630" as="targetPoint" />
             <Array as="points">
@@ -216,65 +216,71 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-76" value="共享集群/cu集群管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-76" value="共享集群/cu集群管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="780" y="550" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-77" value="private link" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-77" value="private link" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1130" y="370" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-78" value="jnsgw" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-78" value="jnsgw" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1150" y="565" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-80" value="private link" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-80" value="private link" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1150" y="660" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-81" value="dql/dml路由&lt;br&gt;query 改写 dql 到dml持久化结果到cos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-81" value="dql/dml路由&lt;br&gt;query 改写 dql 到dml持久化结果到cos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="780" y="590" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-83" value="云梯VPC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-83" value="云梯VPC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1060" y="320" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-85" value="云梯emr&amp;nbsp;&lt;br&gt;spark&lt;br&gt;thrift server（ddl）" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-85" value="云梯emr&amp;nbsp;&lt;br&gt;spark&lt;br&gt;thrift server（ddl）" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="870" y="730" width="150" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-87" value="大部分ddl" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-87" value="大部分ddl" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="780" y="650" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-88" value="private link" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-88" value="private link" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1150" y="780" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-90" value="cos读写&lt;br&gt;12小时过期&lt;br&gt;刷新机制" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-90" value="cos读写&lt;br&gt;12小时过期&lt;br&gt;刷新机制" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1251" y="860" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-92" value="数据导入导出等业务逻辑封装" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-92" value="数据导入导出等业务逻辑封装" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="380" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-93" value="cos provider" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-93" value="cos provider" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="380" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-94" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;strokeColor=#EA6B66;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-85">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-94" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;strokeColor=#EA6B66;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="WN6tTOAt-TABU7jkGG25-85" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="930" y="640" as="sourcePoint" />
             <mxPoint x="945" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-96" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontColor=#000000;strokeColor=#0000FF;strokeWidth=3;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.907;exitY=-0.067;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WN6tTOAt-TABU7jkGG25-15" target="WN6tTOAt-TABU7jkGG25-66">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-96" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontColor=#000000;strokeColor=#0000FF;strokeWidth=3;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.907;exitY=-0.067;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="WN6tTOAt-TABU7jkGG25-15" target="WN6tTOAt-TABU7jkGG25-66" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="1340" y="940" as="sourcePoint" />
             <mxPoint x="1440" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-97" value="托管账号bucket（仓）" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-97" value="托管账号bucket（仓）" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="330" y="980" width="410" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-98" value="用户bucket（湖）" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-98" value="用户bucket（湖）" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="940" y="980" width="530" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-100" value="青鹅&lt;br&gt;运维计费" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-100" value="青鹅&lt;br&gt;运维计费" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;" parent="1" vertex="1">
           <mxGeometry x="590" y="450" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WN6tTOAt-TABU7jkGG25-101" value="&lt;h1&gt;各个模块负责人&lt;/h1&gt;&lt;p&gt;1、元数据：hybris 负责人lukexue yiwenwu codingxu valuxzhao&lt;/p&gt;&lt;p&gt;2、安全：库表权限ranger 负责人lukexue htao&lt;/p&gt;&lt;p&gt;3、supersql：&lt;/p&gt;&lt;p&gt;资源管理/集群抽象 + spark + iceberg ：layyu + papilonwang&lt;/p&gt;&lt;p&gt;calcite 语法+路由规则+ presto：jameswu + allendang&lt;/p&gt;&lt;p&gt;4、allxuio：baoloongmao&lt;/p&gt;&lt;p&gt;5、spark：&lt;/p&gt;&lt;p&gt;6、presto：&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="WN6tTOAt-TABU7jkGG25-101" value="&lt;h1&gt;各个模块负责人&lt;/h1&gt;&lt;p&gt;1、元数据：hybris 负责人lukexue yiwenwu codingxu valuxzhao&lt;/p&gt;&lt;p&gt;2、安全：库表权限ranger 负责人lukexue htao&lt;/p&gt;&lt;p&gt;3、supersql：&lt;/p&gt;&lt;p&gt;资源管理/集群抽象 + spark + iceberg ：layyu + papilonwang&lt;/p&gt;&lt;p&gt;calcite 语法+路由规则+ presto：jameswu + allendang&lt;/p&gt;&lt;p&gt;4、allxuio：baoloongmao&lt;/p&gt;&lt;p&gt;5、spark：&lt;/p&gt;&lt;p&gt;6、presto：&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="200" y="1110" width="690" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="RevRlMMUMR5hTP96bKFd-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RevRlMMUMR5hTP96bKFd-2" value="&lt;h1&gt;流式数据&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1400" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
