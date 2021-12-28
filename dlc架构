@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T07:10:30.727Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ShJ45516g7xCQIBzmONa" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-28T07:18:17.337Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="oNKkFtS0OwQBc81kgLB8" version="16.1.0" type="github">
   <diagram id="ebQJ0tFEpQReODmqAIao" name="Page-1">
     <mxGraphModel dx="764" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -279,7 +279,7 @@
         <mxCell id="RevRlMMUMR5hTP96bKFd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RevRlMMUMR5hTP96bKFd-1" target="RevRlMMUMR5hTP96bKFd-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RevRlMMUMR5hTP96bKFd-1" value="3、cdb/等&lt;br&gt;&lt;font color=&quot;#0000ff&quot;&gt;需要update&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RevRlMMUMR5hTP96bKFd-1" value="3、cdb/等&lt;br&gt;&lt;font color=&quot;#0000ff&quot;&gt;需要update&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="211" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RevRlMMUMR5hTP96bKFd-2" value="&lt;h1&gt;流式数据接入&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
@@ -306,7 +306,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RevRlMMUMR5hTP96bKFd-10" value="4、sdk&lt;br&gt;server写入&lt;br&gt;&lt;font color=&quot;#0000ff&quot;&gt;append only&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RevRlMMUMR5hTP96bKFd-10" value="4、sdk&lt;br&gt;server写入&lt;br&gt;cls？&lt;br&gt;&lt;font color=&quot;#0000ff&quot;&gt;append only&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="211" y="1650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RevRlMMUMR5hTP96bKFd-13" value="spark structured streaming&lt;br&gt;foreachBatch( df merge into dml)&amp;nbsp;&lt;br&gt;方案待测试 cdc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -321,11 +321,11 @@
         <mxCell id="RevRlMMUMR5hTP96bKFd-15" value="托管cos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="697" y="1700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RevRlMMUMR5hTP96bKFd-17" value="dlc导入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RevRlMMUMR5hTP96bKFd-17" value="dlc导入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="767" y="1650" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RevRlMMUMR5hTP96bKFd-18" value="cos工具&lt;br&gt;oceanus&lt;br&gt;emr flink等&lt;br&gt;&lt;font color=&quot;#b3b3b3&quot;&gt;datahub&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="547" y="1500" width="100" height="60" as="geometry" />
+        <mxCell id="RevRlMMUMR5hTP96bKFd-18" value="cls投递cos&lt;br&gt;cos工具&lt;br&gt;oceanus&lt;br&gt;emr flink等&lt;br&gt;&lt;font color=&quot;#b3b3b3&quot;&gt;datahub&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1510" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RevRlMMUMR5hTP96bKFd-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RevRlMMUMR5hTP96bKFd-4" target="RevRlMMUMR5hTP96bKFd-15">
           <mxGeometry relative="1" as="geometry">
@@ -348,7 +348,7 @@
           <mxGeometry x="480" y="1420" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RevRlMMUMR5hTP96bKFd-22" value="spark 全量 主键增量" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="530" y="1450" width="60" height="30" as="geometry" />
+          <mxGeometry x="525" y="1390" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RevRlMMUMR5hTP96bKFd-23" value="oceanus？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="567" y="1690" width="60" height="30" as="geometry" />
