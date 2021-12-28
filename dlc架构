@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T07:24:25.994Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="zcamK8jMpZN3MR9DKgTq" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-28T07:26:24.460Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="QOhL9R5lu0JKo7Z8T2mO" version="16.1.0" type="github">
   <diagram id="ebQJ0tFEpQReODmqAIao" name="Page-1">
     <mxGraphModel dx="764" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -297,7 +297,7 @@
           <mxGeometry x="350" y="1490" width="113" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RevRlMMUMR5hTP96bKFd-9" value="内建flink？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="517" y="1730" width="113" height="30" as="geometry" />
+          <mxGeometry x="537" y="1650" width="113" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RevRlMMUMR5hTP96bKFd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RevRlMMUMR5hTP96bKFd-10" target="RevRlMMUMR5hTP96bKFd-4">
           <mxGeometry relative="1" as="geometry">
@@ -310,7 +310,7 @@
           <mxGeometry x="211" y="1650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RevRlMMUMR5hTP96bKFd-13" value="dlc spark structured streaming&lt;br&gt;foreachBatch( df merge into dml)&amp;nbsp;&lt;br&gt;方案待测试 cdc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1760" width="212" height="50" as="geometry" />
+          <mxGeometry x="514" y="1680" width="212" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RevRlMMUMR5hTP96bKFd-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RevRlMMUMR5hTP96bKFd-14" target="RevRlMMUMR5hTP96bKFd-15">
           <mxGeometry relative="1" as="geometry" />
@@ -350,8 +350,8 @@
         <mxCell id="RevRlMMUMR5hTP96bKFd-22" value="spark 全量 主键增量" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="525" y="1390" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RevRlMMUMR5hTP96bKFd-23" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;oceanus？&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1、投递托管cos&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2、hybris 安全问题&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3、hybris 打通 iceberg 事物&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1680" width="160" height="40" as="geometry" />
+        <mxCell id="RevRlMMUMR5hTP96bKFd-23" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;oceanus？&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1、投递托管cos&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2、hybris 安全问题&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3、hybris 打通 iceberg 事物&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;4、托管cos权限方案安全&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;5、oceanus网络&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;6、谁的oceanus&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1740" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="RevRlMMUMR5hTP96bKFd-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -365,7 +365,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RevRlMMUMR5hTP96bKFd-25" value="autooptimizer&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="1765" width="150" height="40" as="geometry" />
+          <mxGeometry x="600" y="1640" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
