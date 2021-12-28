@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T07:23:45.755Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="jGzerwmK8u2DvgbCxvxV" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-28T07:24:25.994Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="zcamK8jMpZN3MR9DKgTq" version="16.1.0" type="github">
   <diagram id="ebQJ0tFEpQReODmqAIao" name="Page-1">
     <mxGraphModel dx="764" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -296,8 +296,8 @@
         <mxCell id="RevRlMMUMR5hTP96bKFd-6" value="DTS or 其他工具 debezium" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="350" y="1490" width="113" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RevRlMMUMR5hTP96bKFd-9" value="flink？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="562" y="1730" width="60" height="30" as="geometry" />
+        <mxCell id="RevRlMMUMR5hTP96bKFd-9" value="内建flink？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="517" y="1730" width="113" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RevRlMMUMR5hTP96bKFd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RevRlMMUMR5hTP96bKFd-10" target="RevRlMMUMR5hTP96bKFd-4">
           <mxGeometry relative="1" as="geometry">
@@ -309,8 +309,8 @@
         <mxCell id="RevRlMMUMR5hTP96bKFd-10" value="4、sdk&lt;br&gt;server写入&lt;br&gt;cls？&lt;br&gt;&lt;font color=&quot;#0000ff&quot;&gt;append only&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="211" y="1650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RevRlMMUMR5hTP96bKFd-13" value="spark structured streaming&lt;br&gt;foreachBatch( df merge into dml)&amp;nbsp;&lt;br&gt;方案待测试 cdc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="522" y="1760" width="150" height="50" as="geometry" />
+        <mxCell id="RevRlMMUMR5hTP96bKFd-13" value="dlc spark structured streaming&lt;br&gt;foreachBatch( df merge into dml)&amp;nbsp;&lt;br&gt;方案待测试 cdc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1760" width="212" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RevRlMMUMR5hTP96bKFd-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RevRlMMUMR5hTP96bKFd-14" target="RevRlMMUMR5hTP96bKFd-15">
           <mxGeometry relative="1" as="geometry" />
