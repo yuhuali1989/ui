@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T04:26:42.760Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="855IEJ-VkrFqw620fxAh" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T04:27:12.710Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="0zFHSsMFBYsrudNPsgC6" version="16.1.0" type="github">
   <diagram id="iUVBw2Y2bLhf0VYZ5btC" name="Page-1">
     <mxGraphModel dx="1298" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,8 +70,8 @@
         <mxCell id="WloF8g262gR6L6-ybi61-29" value="&lt;h1&gt;presto 虚拟集群架构方案&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="170" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WloF8g262gR6L6-ybi61-49" value="&lt;h1&gt;spark 虚拟集群架构方案 livy sql复用计算资源，pyspark/spark-shell jar等都是不复用&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="830" width="983" height="40" as="geometry" />
+        <mxCell id="WloF8g262gR6L6-ybi61-49" value="&lt;h1&gt;spark 虚拟集群架构方案 livy sql复用计算资源&lt;/h1&gt;&lt;h1&gt;pyspark/spark-shell jar等都是不复用&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="780" width="983" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WloF8g262gR6L6-ybi61-50" value="presto-operator" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="280" width="500" height="30" as="geometry" />
