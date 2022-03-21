@@ -1,4 +1,4 @@
-<mxfile modified="2022-03-21T06:31:48.095Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="ym7t9t3_I9qbjiKDePp7" version="16.6.6" type="github">
+<mxfile modified="2022-03-21T06:32:48.653Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="QfqFlyNzrOyxxHR9ODbj" version="16.6.6" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1298" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -419,6 +419,15 @@
         </mxCell>
         <mxCell id="_nBh2fi49YtI0KLn9jYt-39" value="统一元数据服务：&lt;br&gt;DLF 数据目录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="540" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_nBh2fi49YtI0KLn9jYt-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="_nBh2fi49YtI0KLn9jYt-40" target="_nBh2fi49YtI0KLn9jYt-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_nBh2fi49YtI0KLn9jYt-40" value="&lt;font color=&quot;#000000&quot;&gt;离线计算ETL:&lt;br&gt;hive/tez/spark&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1224" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_nBh2fi49YtI0KLn9jYt-41" value="&lt;font color=&quot;#000000&quot;&gt;DLC spark&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
