@@ -1,4 +1,4 @@
-<mxfile modified="2022-03-21T12:04:41.983Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="EdLbZ85sRZfqIAEU-SnW" version="16.6.6" type="github">
+<mxfile modified="2022-03-21T12:35:37.356Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="spo6Tn3i4yfmODKDY5tS" version="16.6.6" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="2269" dy="2029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -493,7 +493,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_nBh2fi49YtI0KLn9jYt-103" value="数据孤岛 vs 数据湖 数据湖粘合剂和公共底层服务" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-181" y="1754" width="670" height="40" as="geometry" />
+          <mxGeometry x="-175" y="1740" width="670" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_nBh2fi49YtI0KLn9jYt-104" value="&lt;font color=&quot;#ff6666&quot;&gt;数据湖表格式&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;：iceberg/hudi&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="679.5" y="1423" width="120" height="60" as="geometry" />
