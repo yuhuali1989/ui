@@ -1,4 +1,4 @@
-<mxfile modified="2022-03-25T05:24:50.700Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="dxZBPn9iiYkAvavMCQz4" version="17.1.3" type="github">
+<mxfile modified="2022-03-25T05:26:35.665Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="8zl_ZiraabABqftqXONV" version="17.1.3" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="2125" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -542,19 +542,7 @@
         <mxCell id="_nBh2fi49YtI0KLn9jYt-157" value="其他合作伙伴&lt;br&gt;databricks等" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FF0000;strokeColor=#808080;" parent="1" vertex="1">
           <mxGeometry x="1020" y="303" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-dt2QMNnZprUsnWnlwTd-3" value="联邦分析引擎&lt;br&gt;presto/spark" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1639.3899999999999" y="990" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-dt2QMNnZprUsnWnlwTd-4" value="云上半托管大数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1205.5" y="990" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-dt2QMNnZprUsnWnlwTd-5" value="用户自建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="990" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-dt2QMNnZprUsnWnlwTd-6" value="云上全托管大数据产品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="990" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-dt2QMNnZprUsnWnlwTd-21" value="&lt;font color=&quot;#0000ff&quot;&gt;联邦分析&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="-dt2QMNnZprUsnWnlwTd-21" value="&lt;font color=&quot;#0066cc&quot;&gt;联邦分析&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1290" y="260" width="560" height="37" as="geometry" />
         </mxCell>
       </root>
