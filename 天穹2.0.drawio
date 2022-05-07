@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-07T07:38:56.322Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="SUoEZQwuIrDNh4iE4aV3" version="17.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-07T07:49:55.721Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="hD5cpcNO_p_Kx7uCEuXV" version="17.2.2" type="github">
   <diagram id="w5lNizewJa8qBjK9cvyz" name="Page-1">
-    <mxGraphModel dx="1298" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2125" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,11 +19,20 @@
         <mxCell id="q_4NkeSJCs-L6tbb3dVv-8" value="申请1单元=20c/50gb" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q_4NkeSJCs-L6tbb3dVv-10" value="天穹机器管理方式？&lt;br&gt;1、根据预算提前购买&lt;br&gt;2、备货&lt;br&gt;3、虚拟化？&lt;br&gt;4、物理机器共享？&lt;br&gt;5、碎片？" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="415" width="130" height="95" as="geometry" />
+        <mxCell id="q_4NkeSJCs-L6tbb3dVv-10" value="天穹机器管理方式？&lt;br&gt;1、根据预算提前购买&lt;br&gt;2、备货&lt;br&gt;3、虚拟化？&lt;br&gt;4、物理机器共享？&lt;br&gt;5、碎片？&lt;br&gt;6、仅实时/离线两种规格？" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="415" width="130" height="155" as="geometry" />
         </mxCell>
         <mxCell id="q_4NkeSJCs-L6tbb3dVv-11" value="OBS&lt;br&gt;&lt;br&gt;如意算盘" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q_4NkeSJCs-L6tbb3dVv-12" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-60" y="340" as="sourcePoint" />
+            <mxPoint x="820" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q_4NkeSJCs-L6tbb3dVv-14" value="资源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="400" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
