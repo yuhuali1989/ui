@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-07T07:53:24.657Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="JNrdzCd6elsaUqTUFdcn" version="17.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-07T07:55:14.635Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="ZICHjAKWiZhObdze7jPi" version="17.2.2" type="github">
   <diagram id="w5lNizewJa8qBjK9cvyz" name="Page-1">
     <mxGraphModel dx="2125" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="q_4NkeSJCs-L6tbb3dVv-18" value="udf&lt;br&gt;1、不允许用户提交jar&lt;br&gt;可以自定义python udf&lt;br&gt;2、&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-family: , &amp;#34;system-ui&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;udf命名空间没有隔离&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="60" y="-80" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="q_4NkeSJCs-L6tbb3dVv-20" value="hive metastore?&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-80" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
