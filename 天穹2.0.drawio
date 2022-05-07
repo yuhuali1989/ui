@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-07T07:31:49.697Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="5JdG2juDBus33vv3T93G" version="17.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-07T07:38:56.322Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="SUoEZQwuIrDNh4iE4aV3" version="17.2.2" type="github">
   <diagram id="w5lNizewJa8qBjK9cvyz" name="Page-1">
     <mxGraphModel dx="1298" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,10 @@
           <mxGeometry x="260" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q_4NkeSJCs-L6tbb3dVv-10" value="天穹机器管理方式？&lt;br&gt;1、根据预算提前购买&lt;br&gt;2、备货&lt;br&gt;3、虚拟化？&lt;br&gt;4、物理机器共享？&lt;br&gt;5、碎片？" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="435" width="130" height="95" as="geometry" />
+          <mxGeometry x="430" y="415" width="130" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="q_4NkeSJCs-L6tbb3dVv-11" value="OBS&lt;br&gt;&lt;br&gt;如意算盘" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="410" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
