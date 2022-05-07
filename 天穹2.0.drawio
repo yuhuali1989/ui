@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-07T08:27:05.903Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="SFTkQX48Tw_gilOfK40T" version="17.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-07T08:35:36.276Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="a6bF9RtPM9SHcWYRl3Ly" version="17.2.2" type="github">
   <diagram id="w5lNizewJa8qBjK9cvyz" name="Page-1">
     <mxGraphModel dx="2125" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,6 +57,9 @@
         </mxCell>
         <mxCell id="q_4NkeSJCs-L6tbb3dVv-23" value="表格式&lt;br&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22spark%2Fhive%20%E6%80%A7%E8%83%BD%2F%E8%B5%84%E6%BA%90%E5%8D%A0%E7%94%A8%E5%90%88%E7%90%86%E6%80%A7%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dleft%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22380%22%20y%3D%22-80%22%20width%3D%22120%22%20height%3D%2290%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3&lt;/span&gt;默认表格式iceberg？&lt;br&gt;无事务支持" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="540" y="-80" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="q_4NkeSJCs-L6tbb3dVv-24" value="protobuffer 表" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-80" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
