@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-04T03:09:10.475Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Xnc_Z6A2fwqPhVlBgeIf" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-04T03:09:31.998Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="CyjvZZkf2jpQccFIZiD2" version="20.2.0" type="github">
   <diagram id="TwNevkl4osXJ6p4ZxKjI" name="Page-1">
     <mxGraphModel dx="2125" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="Ma8uvtkhVmst971E_OpM-8" value="hybris" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-20" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ma8uvtkhVmst971E_OpM-10" value="安全相关参数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="490" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
