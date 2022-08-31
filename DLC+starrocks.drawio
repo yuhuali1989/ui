@@ -1,92 +1,95 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T07:42:52.308Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="grxtUL4VUMV8PbMHqvcQ" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-31T07:44:10.981Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="NvpQ90sBxm4WkMMYnWz3" version="20.2.3" type="github">
   <diagram id="ByqBCOwQlsSOdAjhjWay" name="Page-1">
-    <mxGraphModel dx="2125" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2354" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5iqYC0vRyJse41guf9SQ-1" value="Option1:纯湖存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="70" y="140" width="170" height="30" as="geometry" />
+          <mxGeometry x="-500" y="140" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5iqYC0vRyJse41guf9SQ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5iqYC0vRyJse41guf9SQ-2" target="5iqYC0vRyJse41guf9SQ-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5iqYC0vRyJse41guf9SQ-2" value="DLC spark" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="220" width="120" height="70" as="geometry" />
+          <mxGeometry x="-490" y="220" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5iqYC0vRyJse41guf9SQ-3" value="DLC COS iceberg/hudi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="390" width="640" height="60" as="geometry" />
+          <mxGeometry x="-490" y="390" width="640" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5iqYC0vRyJse41guf9SQ-5" value="ingest / etl /index" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="310" width="120" height="30" as="geometry" />
+          <mxGeometry x="-390" y="310" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5iqYC0vRyJse41guf9SQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5iqYC0vRyJse41guf9SQ-6" target="5iqYC0vRyJse41guf9SQ-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5iqYC0vRyJse41guf9SQ-6" value="DLC presto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="220" width="120" height="70" as="geometry" />
+          <mxGeometry x="-230" y="220" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5iqYC0vRyJse41guf9SQ-8" value="adhoc/ 联邦 ap/tp数据源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="310" width="120" height="30" as="geometry" />
+          <mxGeometry x="-230" y="310" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5iqYC0vRyJse41guf9SQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5iqYC0vRyJse41guf9SQ-9" target="5iqYC0vRyJse41guf9SQ-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5iqYC0vRyJse41guf9SQ-9" value="DLC starrocks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="220" width="120" height="70" as="geometry" />
+          <mxGeometry x="30" y="220" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5iqYC0vRyJse41guf9SQ-11" value="read external&amp;nbsp; iceberg/hudi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="310" width="120" height="30" as="geometry" />
+          <mxGeometry x="40" y="310" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5iqYC0vRyJse41guf9SQ-13" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.question;" vertex="1" parent="1">
-          <mxGeometry x="510" y="150" width="41" height="78" as="geometry" />
+          <mxGeometry x="-60" y="150" width="41" height="78" as="geometry" />
         </mxCell>
         <mxCell id="5iqYC0vRyJse41guf9SQ-14" value="presto/starrocks iceberg性能会有多大差异" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="490" y="90" width="60" height="30" as="geometry" />
+          <mxGeometry x="-80" y="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5iqYC0vRyJse41guf9SQ-15" value="Option2:带starrocks存储格式，存算分离架构演进" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="80" y="510" width="440" height="30" as="geometry" />
+          <mxGeometry x="-490" y="510" width="440" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5iqYC0vRyJse41guf9SQ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5iqYC0vRyJse41guf9SQ-17" target="5iqYC0vRyJse41guf9SQ-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5iqYC0vRyJse41guf9SQ-17" value="DLC spark" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="590" width="120" height="70" as="geometry" />
+          <mxGeometry x="-490" y="590" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5iqYC0vRyJse41guf9SQ-18" value="DLC COS iceberg/hudi/ &lt;font color=&quot;#ff0000&quot;&gt;starrocks format&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="760" width="640" height="60" as="geometry" />
+          <mxGeometry x="-490" y="760" width="640" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5iqYC0vRyJse41guf9SQ-19" value="ingest / etl /index&lt;br&gt;bulk starrocks format" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="680" width="120" height="30" as="geometry" />
+          <mxGeometry x="-390" y="680" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5iqYC0vRyJse41guf9SQ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5iqYC0vRyJse41guf9SQ-21" target="5iqYC0vRyJse41guf9SQ-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5iqYC0vRyJse41guf9SQ-21" value="DLC presto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="590" width="120" height="70" as="geometry" />
+          <mxGeometry x="-230" y="590" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5iqYC0vRyJse41guf9SQ-22" value="adhoc/ 联邦 ap/tp数据源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="680" width="120" height="30" as="geometry" />
+          <mxGeometry x="-230" y="680" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5iqYC0vRyJse41guf9SQ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5iqYC0vRyJse41guf9SQ-24" target="5iqYC0vRyJse41guf9SQ-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5iqYC0vRyJse41guf9SQ-24" value="DLC starrocks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="590" width="120" height="70" as="geometry" />
+          <mxGeometry x="30" y="590" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5iqYC0vRyJse41guf9SQ-25" value="存算分离" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="680" width="120" height="30" as="geometry" />
+          <mxGeometry x="40" y="680" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5iqYC0vRyJse41guf9SQ-26" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.question;" vertex="1" parent="1">
-          <mxGeometry x="510" y="800" width="41" height="78" as="geometry" />
+          <mxGeometry x="-60" y="800" width="41" height="78" as="geometry" />
         </mxCell>
         <mxCell id="5iqYC0vRyJse41guf9SQ-27" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=19;fontColor=#FF0000;" edge="1" parent="1" target="5iqYC0vRyJse41guf9SQ-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="10" y="190" as="sourcePoint" />
-            <mxPoint x="10" y="760" as="targetPoint" />
+            <mxPoint x="-560" y="190" as="sourcePoint" />
+            <mxPoint x="-560" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5iqYC0vRyJse41guf9SQ-28" value="envole？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="720" width="60" height="30" as="geometry" />
+          <mxGeometry x="-590" y="720" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5iqYC0vRyJse41guf9SQ-29" value="虚拟集群抽象？" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="168" width="100" height="652" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
