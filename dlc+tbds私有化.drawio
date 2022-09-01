@@ -1,44 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T06:15:21.307Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ru4GWgRjWWaE-cWAt10i" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-01T06:17:03.960Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="pM2uHAMQt9e6cR1friXa" version="20.2.3" type="github">
   <diagram id="dzDGJaT0LqkKtjmnmPE_" name="Page-1">
-    <mxGraphModel dx="2450" dy="966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2824" dy="1189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bD3E9LJAJzrm63IDOAJ8-2" value="方向问题：dlc在tbds的定位： 兼容hdfs及跨云 对象存储/云原生 的统一湖仓一体产品？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="210" y="70" width="510" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bD3E9LJAJzrm63IDOAJ8-3" value="tbds-hdfs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bD3E9LJAJzrm63IDOAJ8-4" value="cos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bD3E9LJAJzrm63IDOAJ8-5" value="s3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bD3E9LJAJzrm63IDOAJ8-6" value="统一存储抽象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="410" width="400" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bD3E9LJAJzrm63IDOAJ8-7" value="统一资源调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="410" width="400" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bD3E9LJAJzrm63IDOAJ8-8" value="峰峦" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bD3E9LJAJzrm63IDOAJ8-9" value="yarn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bD3E9LJAJzrm63IDOAJ8-10" value="各云厂商容器服务？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bD3E9LJAJzrm63IDOAJ8-14" value="统一元数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bD3E9LJAJzrm63IDOAJ8-15" value="统一安全" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="390" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bD3E9LJAJzrm63IDOAJ8-16" value="统一语法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="-160" y="520" width="510" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bD3E9LJAJzrm63IDOAJ8-151" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="-160" y="730" width="910" height="550" as="geometry" />
@@ -317,7 +284,7 @@
         <mxCell id="bD3E9LJAJzrm63IDOAJ8-215" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1081" y="995" width="170" height="215" as="geometry" />
         </mxCell>
-        <mxCell id="bD3E9LJAJzrm63IDOAJ8-216" value="TKE 21x版本" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bD3E9LJAJzrm63IDOAJ8-216" value="TKE&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1090" y="1005" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bD3E9LJAJzrm63IDOAJ8-217" value="cu 包年包月固定部分TKE，弹性部分虚拟节点EKS" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
