@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T03:24:32.014Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.2.3" etag="-aHJ-JBzOXiRPwZuFMv9" type="github"><diagram id="dzDGJaT0LqkKtjmnmPE_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-01T03:26:32.069Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="OsJey4Xw0Q4LRqhnhJsk" version="20.2.3" type="github">
+  <diagram id="dzDGJaT0LqkKtjmnmPE_" name="Page-1">
+    <mxGraphModel dx="1298" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bD3E9LJAJzrm63IDOAJ8-2" value="方向问题：dlc定位于 兼容hdfs及跨云 对象存储的统一湖仓一体产品？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="250" width="460" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
