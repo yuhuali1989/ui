@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-08T08:26:04.052Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="u0fkCia4vY3eUb70DqpZ" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-08T08:30:18.995Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="kKPHGjlKdfmgw-UHhQx_" version="20.2.8" type="github">
   <diagram id="ByqBCOwQlsSOdAjhjWay" name="Page-1">
     <mxGraphModel dx="2125" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="5iqYC0vRyJse41guf9SQ-2" value="DLC spark" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-490" y="220" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="5iqYC0vRyJse41guf9SQ-3" value="DLC COS iceberg/hudi/parquet/orc" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5iqYC0vRyJse41guf9SQ-3" value="DLC COS iceberg/hudi parquet/orc？支持不好" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-490" y="390" width="640" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5iqYC0vRyJse41guf9SQ-5" value="ingest / etl /index" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
