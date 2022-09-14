@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T03:23:42.565Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="VSJX4AhHruJxT7eaJjmY" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-14T03:24:09.670Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="0dYw7va3fKg0XQ9mBUre" version="20.3.0" type="github">
   <diagram id="of9-G843k6Hil0wtaBBc" name="Page-1">
     <mxGraphModel dx="2125" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="290" y="200" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-2" value="上层业务强感知" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="215" width="60" height="30" as="geometry" />
+          <mxGeometry x="160" y="215" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-3" value="&lt;font color=&quot;#ff0000&quot;&gt;函数&lt;/font&gt;&lt;br&gt;是否允许自定义函数&lt;br&gt;remote 函数/hive udf/spark udf&lt;br&gt;安全隔离 函数列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="200" width="170" height="60" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="440" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-6" value="开发语言场景" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="110" width="60" height="30" as="geometry" />
+          <mxGeometry x="160" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-7" value="&lt;font&gt;sql+udf&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="243.5" y="100" width="120" height="60" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="320" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-9" value="内部逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="325" width="60" height="30" as="geometry" />
+          <mxGeometry x="160" y="325" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-10" value="&lt;font&gt;ranger基本一致&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="470" y="430" width="120" height="60" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="580" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-15" value="外部依赖" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="430" width="60" height="30" as="geometry" />
+          <mxGeometry x="150" y="430" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-16" value="&lt;font color=&quot;#ff0000&quot;&gt;dop&lt;br&gt;集群 or local&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="430" width="120" height="60" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="770" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-18" value="跨源依赖" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="540" width="60" height="30" as="geometry" />
+          <mxGeometry x="160" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-19" value="&lt;font&gt;jdbc&lt;br&gt;外表 or catalog&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="243.5" y="540" width="120" height="60" as="geometry" />
@@ -93,27 +93,27 @@
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-27" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;fontColor=#FFCCCC;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50" y="120" as="sourcePoint" />
-            <mxPoint x="50" y="330" as="targetPoint" />
+            <mxPoint x="110" y="120" as="sourcePoint" />
+            <mxPoint x="110" y="330" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="50" y="200" />
+              <mxPoint x="110" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;fontColor=#FFCCCC;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50" y="585" as="sourcePoint" />
-            <mxPoint x="50" y="355" as="targetPoint" />
+            <mxPoint x="110" y="585" as="sourcePoint" />
+            <mxPoint x="110" y="355" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="50" y="225" />
+              <mxPoint x="110" y="225" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-29" value="&lt;font color=&quot;#000000&quot;&gt;业务场景历史遗留决定&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFCCCC;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="200" width="80" height="30" as="geometry" />
+          <mxGeometry x="-20" y="200" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-30" value="&lt;font color=&quot;#000000&quot;&gt;底层设计依赖影响&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFCCCC;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="460" width="60" height="30" as="geometry" />
+          <mxGeometry y="460" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-31" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot; color=&quot;#ea6b66&quot;&gt;DLC 统一计算入口 怎么融合supersql&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="110" y="40" width="760" height="30" as="geometry" />
