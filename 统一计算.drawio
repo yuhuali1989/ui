@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T03:02:02.378Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="8FnU-9ZEcQuHaUsH3ECX" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-14T03:03:31.044Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="scLIqA-Q4H8HVbk16p8r" version="20.3.0" type="github">
   <diagram id="of9-G843k6Hil0wtaBBc" name="Page-1">
     <mxGraphModel dx="1298" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,20 +16,29 @@
         <mxCell id="PXcGYMHyOknp1wHEo6e0-4" value="语义" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PXcGYMHyOknp1wHEo6e0-5" value="&lt;font color=&quot;#ff0000&quot;&gt;notebook&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="PXcGYMHyOknp1wHEo6e0-5" value="&lt;font color=&quot;#ff0000&quot;&gt;notebook&lt;br&gt;python，scala&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-6" value="开发语言" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="100" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-7" value="&lt;font color=&quot;#ff0000&quot;&gt;sql+udf&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PXcGYMHyOknp1wHEo6e0-8" value="&lt;font color=&quot;#ff0000&quot;&gt;sql语法/视图&lt;br&gt;&lt;/font&gt;dlc偏hive/spark&lt;br&gt;thive&lt;br&gt;supersql" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PXcGYMHyOknp1wHEo6e0-8" value="&lt;font color=&quot;#ff0000&quot;&gt;hybris&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-9" value="内部逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="325" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PXcGYMHyOknp1wHEo6e0-10" value="&lt;font color=&quot;#ff0000&quot;&gt;ranger&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PXcGYMHyOknp1wHEo6e0-11" value="&lt;font color=&quot;#ff0000&quot;&gt;引擎选择&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PXcGYMHyOknp1wHEo6e0-12" value="&lt;font color=&quot;#ff0000&quot;&gt;sql下推&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
