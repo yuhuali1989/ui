@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T03:22:55.039Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="RhNOvdIaf-bn4yym-vjW" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-14T03:23:21.787Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="bKAg2-j5uLSzHZR_cxPF" version="20.3.0" type="github">
   <diagram id="of9-G843k6Hil0wtaBBc" name="Page-1">
     <mxGraphModel dx="2125" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,13 +29,13 @@
           <mxGeometry x="243.5" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-8" value="&lt;font color=&quot;#ff0000&quot;&gt;hybris&amp;nbsp;&lt;br&gt;三网合一&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="415" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-9" value="内部逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="325" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-10" value="&lt;font&gt;ranger基本一致&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="330" y="415" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-11" value="&lt;font color=&quot;#ff0000&quot;&gt;引擎选择/引擎购买&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="777" y="310" width="120" height="60" as="geometry" />
@@ -50,22 +50,22 @@
           <mxGeometry x="90" y="430" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-16" value="&lt;font color=&quot;#ff0000&quot;&gt;dop&lt;br&gt;集群 or local&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="415" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-17" value="&lt;font color=&quot;#ff0000&quot;&gt;rss/shuffle manager&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="415" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-18" value="跨源依赖" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-19" value="&lt;font&gt;jdbc&lt;br&gt;外表 or catalog&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="251.5" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="243.5" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-20" value="&lt;font color=&quot;#ff0000&quot;&gt;各种引擎native client 读存储/并发好&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="402" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-21" value="云函数跨源网络" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="570" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="562" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-22" value="&lt;font color=&quot;#ff0000&quot;&gt;公有云网络/跨租户共享安全&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="100" width="120" height="60" as="geometry" />
