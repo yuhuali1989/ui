@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-11T07:24:33.627Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="SPwCCHb1ecUMNoaqWu-q" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-11T07:25:23.034Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="qDsicWFQAGdU113u8tRN" version="20.5.3" type="github">
   <diagram id="of9-G843k6Hil0wtaBBc" name="Page-1">
     <mxGraphModel dx="1298" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,7 +133,7 @@
         <mxCell id="PXcGYMHyOknp1wHEo6e0-35" value="&lt;font&gt;&lt;b&gt;物化视图&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="240" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kQjfnwlOfMsw5ZT-PuDC-1" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;1、在DLC更加注重全场景，侧重notebook pyspark和实时以及jar，adhoc/sql 场景可以supersql更多关注&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;2、虚拟集群和spark侧的加强&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="kQjfnwlOfMsw5ZT-PuDC-1" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;1、在DLC更加注重全场景，侧重notebook pyspark和实时以及jar，adhoc/sql 场景可以supersql更多关注&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;2、DLC更关注 虚拟集群和spark引擎侧&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="110" y="660" width="580" height="120" as="geometry" />
         </mxCell>
       </root>
