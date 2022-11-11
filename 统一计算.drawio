@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-11T08:21:19.410Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="cRxZ3UzWdR-wjsLGw1yc" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-11T08:22:15.646Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="5RJza_Aq4wgidZh1Xbuq" version="20.5.3" type="github">
   <diagram id="of9-G843k6Hil0wtaBBc" name="Page-1">
     <mxGraphModel dx="1426" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           <mxGeometry x="160" y="325" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-10" value="&lt;font&gt;&lt;font color=&quot;#000000&quot;&gt;ranger&lt;br&gt;&lt;/font&gt;使用姿势不同，sqltype对应角色&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="430" y="425" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="425" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-11" value="&lt;font&gt;引擎选择/引擎购买&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="750" y="312.5" width="120" height="60" as="geometry" />
@@ -50,10 +50,10 @@
           <mxGeometry x="160" y="440" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-16" value="&lt;font&gt;&lt;font color=&quot;#000000&quot;&gt;dop&lt;br&gt;集群&lt;/font&gt; or local&lt;br&gt;cache&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="615" y="425" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="425" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-17" value="&lt;font&gt;&lt;font color=&quot;#000000&quot;&gt;rss/&lt;/font&gt;shuffle manager&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="810" y="425" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="425" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-18" value="跨源依赖" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="160" y="620" width="60" height="30" as="geometry" />
@@ -177,6 +177,9 @@
             <mxPoint x="820" y="322.5" as="sourcePoint" />
             <mxPoint x="910" y="170" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kQjfnwlOfMsw5ZT-PuDC-17" value="&lt;font color=&quot;#ff0000&quot;&gt;hadoop on cos问题&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="910" y="430" width="120" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
