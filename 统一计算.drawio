@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-11T08:17:59.708Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="fwPJiYV52JCNU4V0dwrN" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-11T08:18:26.675Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="xDwI6cFi6j9TC8T1Trm_" version="20.5.3" type="github">
   <diagram id="of9-G843k6Hil0wtaBBc" name="Page-1">
     <mxGraphModel dx="1426" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="PXcGYMHyOknp1wHEo6e0-12" value="&lt;font&gt;&lt;b&gt;sql下推/cbo/hbo&lt;br&gt;&lt;/b&gt;&lt;font color=&quot;#ff0000&quot;&gt;notebook/jar怎么玩&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="413" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PXcGYMHyOknp1wHEo6e0-14" value="&lt;font&gt;虚拟集群抽象&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="PXcGYMHyOknp1wHEo6e0-14" value="&lt;font&gt;虚拟集群&lt;br&gt;&lt;font color=&quot;#000000&quot;&gt;+ 峰峦&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="575" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PXcGYMHyOknp1wHEo6e0-15" value="外部依赖" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
