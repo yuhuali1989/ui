@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-09T09:18:38.272Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="KREIIIkwLwKjOfH3gfrv" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-09T09:25:41.641Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="yA9WkKVddGU-_qNv5Jy7" version="20.5.3" type="github">
   <diagram id="hqS82j75-_uDZCX89QL6" name="Page-1">
     <mxGraphModel dx="1497" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,23 +40,8 @@
         <mxCell id="1Zz1Nqhw6DDxJ3_sBbBU-13" value="超级节点/EKS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="910" y="740" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Zz1Nqhw6DDxJ3_sBbBU-14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;fontColor=#0000FF;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="270" y="510" width="630" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="1Zz1Nqhw6DDxJ3_sBbBU-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontColor=#0000FF;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="1Zz1Nqhw6DDxJ3_sBbBU-14" target="1Zz1Nqhw6DDxJ3_sBbBU-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="550" y="690" as="sourcePoint" />
-            <mxPoint x="600" y="640" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1Zz1Nqhw6DDxJ3_sBbBU-16" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0000FF;fontColor=#0000FF;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="330" y="560" width="630" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="1Zz1Nqhw6DDxJ3_sBbBU-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#0000FF;fontColor=#0000FF;exitX=0.988;exitY=1.301;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Zz1Nqhw6DDxJ3_sBbBU-16" target="1Zz1Nqhw6DDxJ3_sBbBU-13">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="550" y="690" as="sourcePoint" />
-            <mxPoint x="600" y="640" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="1Zz1Nqhw6DDxJ3_sBbBU-19" value="&lt;font color=&quot;#000000&quot;&gt;资源池&lt;/font&gt; &lt;font color=&quot;#ff0000&quot;&gt;min&lt;/font&gt; - max" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="600" y="820" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
