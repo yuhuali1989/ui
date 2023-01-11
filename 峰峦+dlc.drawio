@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-11T05:48:36.693Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="jBvirBvJqViYmSrWiPr2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-11T05:48:50.749Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="b1JGvMHoJf6Iv0dV_24b" type="github">
   <diagram id="kID9qTkGEZ8yGBSbg_5T" name="Page-1">
     <mxGraphModel dx="998" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
           <mxGeometry x="520" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Omq8vZw3U8IZ6o1q2XBp-12" value="&lt;h1&gt;利润空间&lt;/h1&gt;&lt;p&gt;预留的量不一定会被请求使用，适用于spark 批（不适用于 presto 和sparksql集群）。&lt;/p&gt;&lt;p&gt;request量不一定会被完全使用，各种集群都适用。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="530" width="510" height="120" as="geometry" />
+          <mxGeometry x="100" y="525" width="510" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
