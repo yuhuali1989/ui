@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T12:26:24.343Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="w6R8tx-c5HiwBSejOJ2p" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-10T12:29:09.063Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="fKqLUfU0MCQn4iYDX8Q8" version="21.0.10" type="github">
   <diagram name="Page-1" id="rwwSvc9GXQbOLDpHlsPt">
     <mxGraphModel dx="1505" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qoSIT-62pR1oJo8wJ7Q4-1" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+        <mxCell id="qoSIT-62pR1oJo8wJ7Q4-1" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="90" y="340" width="330" height="550" as="geometry" />
         </mxCell>
         <mxCell id="qoSIT-62pR1oJo8wJ7Q4-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;天穹DB&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -63,8 +63,16 @@
         <mxCell id="qoSIT-62pR1oJo8wJ7Q4-18" value="湖格式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="740" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qoSIT-62pR1oJo8wJ7Q4-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="qoSIT-62pR1oJo8wJ7Q4-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qoSIT-62pR1oJo8wJ7Q4-21" value="hermers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qoSIT-62pR1oJo8wJ7Q4-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="qoSIT-62pR1oJo8wJ7Q4-22" target="qoSIT-62pR1oJo8wJ7Q4-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qoSIT-62pR1oJo8wJ7Q4-22" value="hbase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="585" width="120" height="35" as="geometry" />
@@ -86,6 +94,12 @@
             <mxPoint x="190" y="477" as="sourcePoint" />
             <mxPoint x="500" y="740" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qoSIT-62pR1oJo8wJ7Q4-30" value="元数据迁移" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="670" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qoSIT-62pR1oJo8wJ7Q4-31" value="未来兼容" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="710" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
