@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T11:31:01.466Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="rRJgBPnoyyXEv-J8vXWq" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-12T06:16:18.921Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="6JeYGKZluF9npOXIoY-j" version="21.0.10" type="github">
   <diagram name="Page-1" id="rwwSvc9GXQbOLDpHlsPt">
     <mxGraphModel dx="1505" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
             <mxPoint x="350" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qoSIT-62pR1oJo8wJ7Q4-21" value="hermers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qoSIT-62pR1oJo8wJ7Q4-21" value="hermes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qoSIT-62pR1oJo8wJ7Q4-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="qoSIT-62pR1oJo8wJ7Q4-22" target="qoSIT-62pR1oJo8wJ7Q4-3">
@@ -153,6 +153,57 @@
         </mxCell>
         <mxCell id="qoSIT-62pR1oJo8wJ7Q4-52" value="5、数据导出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qoSIT-62pR1oJo8wJ7Q4-53" value="天穹DB catalog" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="1600" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qoSIT-62pR1oJo8wJ7Q4-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qoSIT-62pR1oJo8wJ7Q4-56" target="qoSIT-62pR1oJo8wJ7Q4-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qoSIT-62pR1oJo8wJ7Q4-56" value="纯湖表 table type=iceberg" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1640" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qoSIT-62pR1oJo8wJ7Q4-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qoSIT-62pR1oJo8wJ7Q4-58" target="qoSIT-62pR1oJo8wJ7Q4-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qoSIT-62pR1oJo8wJ7Q4-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qoSIT-62pR1oJo8wJ7Q4-58" target="qoSIT-62pR1oJo8wJ7Q4-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="1725" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qoSIT-62pR1oJo8wJ7Q4-58" value="纯仓表 table type=sr" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1710" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qoSIT-62pR1oJo8wJ7Q4-61" value="仓数据源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1710" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qoSIT-62pR1oJo8wJ7Q4-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qoSIT-62pR1oJo8wJ7Q4-62" target="qoSIT-62pR1oJo8wJ7Q4-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qoSIT-62pR1oJo8wJ7Q4-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qoSIT-62pR1oJo8wJ7Q4-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="1795" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qoSIT-62pR1oJo8wJ7Q4-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qoSIT-62pR1oJo8wJ7Q4-62" target="qoSIT-62pR1oJo8wJ7Q4-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="1960.5555419921875" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="1865" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qoSIT-62pR1oJo8wJ7Q4-62" value="湖仓混合表&lt;br&gt;table type=virtual" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1780" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qoSIT-62pR1oJo8wJ7Q4-66" value="仓数据源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1780" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qoSIT-62pR1oJo8wJ7Q4-67" value="隐藏湖表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1850" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qoSIT-62pR1oJo8wJ7Q4-68" value="可行方案一&lt;br&gt;实体hive catalog&lt;br&gt;对外保证能读纯湖表、纯仓表&lt;br&gt;湖仓混合特殊类型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1490" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
