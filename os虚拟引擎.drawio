@@ -1,9 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T03:18:55.182Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.5" etag="E9lKdw_p5cJhkZkFiO21" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-13T03:32:40.132Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="DN8plpl4QKpLx_r9Zzg3" version="21.3.5" type="github">
   <diagram name="Page-1" id="8lwrr520fnj5I97nS26R">
-    <mxGraphModel>
+    <mxGraphModel dx="1075" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vNtmrMND30P4OsVdQT8x-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="390" width="240" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vNtmrMND30P4OsVdQT8x-10" target="vNtmrMND30P4OsVdQT8x-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="390" width="560" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vNtmrMND30P4OsVdQT8x-1" target="vNtmrMND30P4OsVdQT8x-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-1" value="os-calcite" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vNtmrMND30P4OsVdQT8x-12" target="vNtmrMND30P4OsVdQT8x-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vNtmrMND30P4OsVdQT8x-12" target="vNtmrMND30P4OsVdQT8x-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vNtmrMND30P4OsVdQT8x-12" target="vNtmrMND30P4OsVdQT8x-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vNtmrMND30P4OsVdQT8x-2" target="vNtmrMND30P4OsVdQT8x-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;os-substrait+os-ut&lt;br style=&quot;font-size: 10px;&quot;&gt;1、定义跨引擎标准语法及行为，test case保证，并且修正可跨引擎属性&lt;br style=&quot;font-size: 10px;&quot;&gt;2、各个引擎直接执行物理计划&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="290" y="500" width="140" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-3" value="os-gluten/spark" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-4" value="os-presto/velox" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-5" value="os-sr湖版" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-11" value="os-虚拟湖引擎" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="410" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-12" value="os-虚拟集群 manager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-14" value="os-虚拟表 管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="555" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vNtmrMND30P4OsVdQT8x-15" target="vNtmrMND30P4OsVdQT8x-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840.0000000000002" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-17" value="hive/spark 语法&lt;br&gt;满足近实时、离线，append表的绝大多数场景" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="325" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-19" value="mysql 协议&lt;br&gt;upsert cdc场景，sp场景" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="335" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
