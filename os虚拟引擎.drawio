@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T08:49:45.586Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="6zDCPyU_tAobPYabD9Rv" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T08:52:54.138Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="F4E-ALz-dDMJDkGVgnDg" version="21.3.5" type="github">
   <diagram name="Page-1" id="8lwrr520fnj5I97nS26R">
     <mxGraphModel dx="772" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,7 +120,7 @@
             <mxPoint x="339.74" y="1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vNtmrMND30P4OsVdQT8x-36" value="DDL server&lt;br&gt;虚拟表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vNtmrMND30P4OsVdQT8x-36" value="DDL server&lt;br&gt;虚拟表&lt;br&gt;UDP/hybris" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vNtmrMND30P4OsVdQT8x-37" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -136,6 +136,39 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="739.74" y="1545" as="sourcePoint" />
             <mxPoint x="739.74" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-41" value="1、考虑没有界面，没有前端&lt;br&gt;2、业界db内闭环，dataops 友好&lt;br&gt;3、所有操作都可以通过sql来" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="940" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-42" value="初始化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-43" value="DOP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-44" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="939.74" y="1545" as="sourcePoint" />
+            <mxPoint x="939.74" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-45" value="数据接入&lt;br&gt;inlong" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-46" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1139.74" y="1545" as="sourcePoint" />
+            <mxPoint x="1139.74" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-47" value="安全中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-48" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1339.74" y="1545" as="sourcePoint" />
+            <mxPoint x="1339.74" y="1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
