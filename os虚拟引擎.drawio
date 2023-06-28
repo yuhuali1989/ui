@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T09:32:42.941Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="MsYwHyDIWn4GPjy4UQnI" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T09:37:52.120Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="SKs9EOpLTouSSzeqRc-q" version="21.3.5" type="github">
   <diagram name="Page-1" id="8lwrr520fnj5I97nS26R">
     <mxGraphModel dx="1942" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -171,7 +171,7 @@
         <mxCell id="vNtmrMND30P4OsVdQT8x-47" value="安全中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vNtmrMND30P4OsVdQT8x-48" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="vNtmrMND30P4OsVdQT8x-48" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="vNtmrMND30P4OsVdQT8x-77">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1340" y="1550" as="sourcePoint" />
             <mxPoint x="1339.74" y="1080" as="targetPoint" />
@@ -192,7 +192,7 @@
         <mxCell id="vNtmrMND30P4OsVdQT8x-53" value="AO及iceberg" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1480" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vNtmrMND30P4OsVdQT8x-54" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="vNtmrMND30P4OsVdQT8x-54" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="vNtmrMND30P4OsVdQT8x-80">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1540" y="1560" as="sourcePoint" />
             <mxPoint x="1539.74" y="1080" as="targetPoint" />
@@ -231,25 +231,61 @@
         <mxCell id="vNtmrMND30P4OsVdQT8x-66" value="一期先不搞" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1250" y="940" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vNtmrMND30P4OsVdQT8x-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="vNtmrMND30P4OsVdQT8x-67">
+        <mxCell id="vNtmrMND30P4OsVdQT8x-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vNtmrMND30P4OsVdQT8x-67" target="vNtmrMND30P4OsVdQT8x-73">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="700" y="1242.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="1259" />
+              <mxPoint x="470" y="1259" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vNtmrMND30P4OsVdQT8x-67" value="create vm sql&lt;br&gt;show vm&lt;br&gt;alter vm&lt;br&gt;drop vm" style="whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="280" y="1212.25" width="120" height="61.5" as="geometry" />
         </mxCell>
-        <mxCell id="vNtmrMND30P4OsVdQT8x-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vNtmrMND30P4OsVdQT8x-70" target="vNtmrMND30P4OsVdQT8x-75">
+        <mxCell id="vNtmrMND30P4OsVdQT8x-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="vNtmrMND30P4OsVdQT8x-70" target="vNtmrMND30P4OsVdQT8x-75">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="vNtmrMND30P4OsVdQT8x-70" target="vNtmrMND30P4OsVdQT8x-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="1210" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="vNtmrMND30P4OsVdQT8x-70" value="create catalog&lt;br&gt;show catalog&lt;br&gt;alter&lt;br&gt;drop catalog" style="whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="480" y="1099" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vNtmrMND30P4OsVdQT8x-73" value="api调用&lt;br&gt;对接峰峦&lt;br&gt;启动网关&lt;br&gt;启动mpp部分引擎" style="whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1212.25" width="120" height="61.5" as="geometry" />
+          <mxGeometry x="680" y="1228" width="120" height="61.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="vNtmrMND30P4OsVdQT8x-70" target="vNtmrMND30P4OsVdQT8x-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="1170" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="vNtmrMND30P4OsVdQT8x-75" value="分配&lt;br&gt;内表存储路径&lt;br&gt;结果存储路径&lt;br&gt;iceberg 元数据加速等" style="whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="880" y="1099" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-79" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="vNtmrMND30P4OsVdQT8x-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1340" y="1550" as="sourcePoint" />
+            <mxPoint x="1339.74" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-77" value="注册ranger service&lt;br&gt;catalog 级别" style="whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-82" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="vNtmrMND30P4OsVdQT8x-80">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1540" y="1560" as="sourcePoint" />
+            <mxPoint x="1539.74" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-80" value="注册catalog治理服务" style="whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
