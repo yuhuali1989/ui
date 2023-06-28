@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T08:59:23.759Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="vkR1_hKjNHKpeXZPuqP_" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T09:01:55.052Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="gsXOfVVNJ9NGvLxcSazG" version="21.3.5" type="github">
   <diagram name="Page-1" id="8lwrr520fnj5I97nS26R">
-    <mxGraphModel dx="1599" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1942" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -141,8 +141,8 @@
         <mxCell id="vNtmrMND30P4OsVdQT8x-41" value="1、考虑没有界面，没有前端&lt;br&gt;2、业界db内闭环，dataops 友好&lt;br&gt;3、所有操作都可以通过sql来" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="940" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vNtmrMND30P4OsVdQT8x-42" value="初始化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="1120" width="60" height="30" as="geometry" />
+        <mxCell id="vNtmrMND30P4OsVdQT8x-42" value="初始化&lt;br&gt;catalog 分配&lt;br&gt;存储路径分配&lt;br&gt;共享集群分配&lt;br&gt;用户及权限初始化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="1120" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vNtmrMND30P4OsVdQT8x-43" value="DOP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="1020" width="120" height="60" as="geometry" />
@@ -194,6 +194,18 @@
         </mxCell>
         <mxCell id="vNtmrMND30P4OsVdQT8x-55" value="形态&lt;br&gt;1、公用ao治理资源&lt;br&gt;2、需要对接天穹db catalog" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1440" y="950" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-56" value="创建 虚拟集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="1228" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-57" value="创建表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="1326" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-58" value="数据集成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="1430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vNtmrMND30P4OsVdQT8x-59" value="数据查询" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="1530" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
