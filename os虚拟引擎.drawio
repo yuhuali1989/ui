@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T09:38:07.377Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="SBpbntql2yVULc3hxIBj" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T09:39:27.578Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="yT8HJRQwg7_PoNV9e3kq" version="21.3.5" type="github">
   <diagram name="Page-1" id="8lwrr520fnj5I97nS26R">
     <mxGraphModel dx="1942" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -275,7 +275,7 @@
             <mxPoint x="1339.74" y="1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vNtmrMND30P4OsVdQT8x-77" value="注册ranger service&lt;br&gt;catalog 级别" style="whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+        <mxCell id="vNtmrMND30P4OsVdQT8x-77" value="注册ranger service&lt;br&gt;catalog 级别&lt;br&gt;管理员权限注册" style="whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="1280" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vNtmrMND30P4OsVdQT8x-82" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="vNtmrMND30P4OsVdQT8x-80">
