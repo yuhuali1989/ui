@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T06:33:40.563Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="CH_Q-HLxkjx1KeRj18o3" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T06:38:07.884Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="0Bfwbl9nFEdsI9xrwdki" version="21.5.1" type="github">
   <diagram name="Page-1" id="8lwrr520fnj5I97nS26R">
     <mxGraphModel dx="2332" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -326,8 +326,8 @@
             <mxPoint x="525" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JdVGSb9E1wAoJygUXLbv-14" value="sr存算分离？&lt;br&gt;or&amp;nbsp;&lt;br&gt;dop sr映射" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="775" y="545" width="160" height="50" as="geometry" />
+        <mxCell id="JdVGSb9E1wAoJygUXLbv-14" value="sr存算分离？&lt;br&gt;or&amp;nbsp;&lt;br&gt;dop sr映射" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="810" y="545" width="160" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
