@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T06:31:44.053Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="GgVridmFGwsG6woQahqB" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T06:32:22.081Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="bDzDGhc0Ze_Bw7J4n6-y" version="21.5.1" type="github">
   <diagram name="Page-1" id="8lwrr520fnj5I97nS26R">
     <mxGraphModel dx="2332" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -45,12 +45,11 @@
         <mxCell id="vNtmrMND30P4OsVdQT8x-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;os-substrait&lt;br&gt;os-ut&lt;br style=&quot;font-size: 10px;&quot;&gt;1、定义跨引擎标准语法及行为，test case保证，并且修正可跨引擎属性&lt;br style=&quot;font-size: 10px;&quot;&gt;2、各个引擎直接执行物理计划&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="290" y="335" width="140" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="vNtmrMND30P4OsVdQT8x-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="JdVGSb9E1wAoJygUXLbv-10" target="JdVGSb9E1wAoJygUXLbv-10" edge="1">
+        <mxCell id="JdVGSb9E1wAoJygUXLbv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vNtmrMND30P4OsVdQT8x-3" target="JdVGSb9E1wAoJygUXLbv-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="190" y="570" />
-              <mxPoint x="190" y="645" />
-              <mxPoint x="840" y="645" />
+              <mxPoint x="190" y="640" />
+              <mxPoint x="840" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -315,14 +314,7 @@
         <mxCell id="JdVGSb9E1wAoJygUXLbv-6" value="os-存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="741" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JdVGSb9E1wAoJygUXLbv-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vNtmrMND30P4OsVdQT8x-3" target="JdVGSb9E1wAoJygUXLbv-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="190" y="625" as="sourcePoint" />
-            <mxPoint x="840" y="480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JdVGSb9E1wAoJygUXLbv-10" value="sr存储" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="JdVGSb9E1wAoJygUXLbv-10" value="sr存储" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="780" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JdVGSb9E1wAoJygUXLbv-12" value="sr读iceberg 外表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
