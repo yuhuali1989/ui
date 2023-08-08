@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-08T03:50:31.036Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="HWwSW0c2iH6M9IqU4GrY" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-08T06:07:00.612Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Y2tMZRvn2LYglnAAOTWa" version="21.6.6" type="github">
   <diagram name="Page-1" id="DvOK544AAdSYS5Jsig9n">
     <mxGraphModel dx="1505" dy="2044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
           <mxGeometry x="930" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="msUf4MJw7vBMh_uC4jN4-16" value="&lt;h1&gt;gluten扩展点&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1290" y="170" width="280" height="80" as="geometry" />
+          <mxGeometry x="1370" y="120" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="msUf4MJw7vBMh_uC4jN4-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="msUf4MJw7vBMh_uC4jN4-18" target="msUf4MJw7vBMh_uC4jN4-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -189,11 +189,17 @@
         <mxCell id="BWV1KbDKcv2o01H1qYZp-24" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;sparkPlan&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="490" y="220" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BWV1KbDKcv2o01H1qYZp-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BWV1KbDKcv2o01H1qYZp-34" target="BWV1KbDKcv2o01H1qYZp-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BWV1KbDKcv2o01H1qYZp-34" value="executeColumnar" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="222.5" width="140" height="25" as="geometry" />
         </mxCell>
         <mxCell id="BWV1KbDKcv2o01H1qYZp-36" value="supportcolumnar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="210" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BWV1KbDKcv2o01H1qYZp-37" value="RDD[ColumnarBatch]" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="205" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
