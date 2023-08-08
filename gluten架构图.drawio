@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-08T03:18:12.652Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="N-JDlg-a0ffoZpBC8Gye" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-08T03:27:58.740Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="5SST3IT-ZlGdd6nKZgc1" version="21.6.6" type="github">
   <diagram name="Page-1" id="DvOK544AAdSYS5Jsig9n">
     <mxGraphModel dx="1505" dy="2044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -140,8 +140,8 @@
         <mxCell id="BWV1KbDKcv2o01H1qYZp-6" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="510" width="500" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="BWV1KbDKcv2o01H1qYZp-8" value="codegen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="530" width="60" height="30" as="geometry" />
+        <mxCell id="BWV1KbDKcv2o01H1qYZp-8" value="codegen&lt;br&gt;目前 supportcolumar不支持codegen" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="520" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BWV1KbDKcv2o01H1qYZp-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BWV1KbDKcv2o01H1qYZp-11" target="BWV1KbDKcv2o01H1qYZp-13">
           <mxGeometry relative="1" as="geometry" />
@@ -152,6 +152,9 @@
         <mxCell id="BWV1KbDKcv2o01H1qYZp-12" value="Rule[SparkPlan]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="540" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BWV1KbDKcv2o01H1qYZp-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BWV1KbDKcv2o01H1qYZp-13" target="BWV1KbDKcv2o01H1qYZp-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BWV1KbDKcv2o01H1qYZp-13" value="wholestagecodegenexec" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="637.5" width="140" height="25" as="geometry" />
         </mxCell>
@@ -161,8 +164,11 @@
         <mxCell id="BWV1KbDKcv2o01H1qYZp-15" value="sparkPlan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="570" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BWV1KbDKcv2o01H1qYZp-17" value="support codegen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="600" width="130" height="30" as="geometry" />
+        <mxCell id="BWV1KbDKcv2o01H1qYZp-17" value="support codegen&amp;amp;&amp;amp; ！supportcolumnar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="600" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BWV1KbDKcv2o01H1qYZp-18" value="doexecute" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="690" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
