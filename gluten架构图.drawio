@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-08T03:16:47.079Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="mCX4I3jTIxVyjZGig8Zq" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-08T03:18:12.652Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="N-JDlg-a0ffoZpBC8Gye" version="21.6.6" type="github">
   <diagram name="Page-1" id="DvOK544AAdSYS5Jsig9n">
     <mxGraphModel dx="1505" dy="2044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -143,11 +143,26 @@
         <mxCell id="BWV1KbDKcv2o01H1qYZp-8" value="codegen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="530" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BWV1KbDKcv2o01H1qYZp-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BWV1KbDKcv2o01H1qYZp-11" target="BWV1KbDKcv2o01H1qYZp-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BWV1KbDKcv2o01H1qYZp-11" value="&lt;div style=&quot;background-color:#2b2b2b;color:#a9b7c6;font-family:&#39;Chalkboard&#39;;font-size:15.0pt;&quot;&gt;&lt;pre&gt;CollapseCodegenStages&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="570" width="60" height="30" as="geometry" />
+          <mxGeometry x="585" y="570" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BWV1KbDKcv2o01H1qYZp-12" value="Rule[SparkPlan]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BWV1KbDKcv2o01H1qYZp-13" value="wholestagecodegenexec" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="637.5" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="BWV1KbDKcv2o01H1qYZp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BWV1KbDKcv2o01H1qYZp-15" target="BWV1KbDKcv2o01H1qYZp-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BWV1KbDKcv2o01H1qYZp-15" value="sparkPlan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BWV1KbDKcv2o01H1qYZp-17" value="support codegen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="600" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
